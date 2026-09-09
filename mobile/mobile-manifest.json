@@ -1,8 +1,8 @@
 {
   "product": "HOPASS",
-  "versionCode": 14,
-  "versionName": "0.7.5",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.5.apk",
-  "sha256": "11537bfd77006b29f1ffa823b68396e21b52cc564d5f1f3128b819b906b7caac",
-  "notes": "최초 실행 등록코드 필수, 직원 연결 유지, 사원증 햇빛 광택 효과, 자동 다운로드 및 설치 화면 실행"
+  "versionCode": 15,
+  "versionName": "0.7.6",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.6.apk",
+  "sha256": "d85d1897aa520ae29833acf8536c5105ed240505598c86b4c54cdb3ebf93a038",
+  "notes": "최초 실행 등록코드 필수, 직원 연결 유지, 사원증 햇빛 광택, 백그라운드 자동 업데이트 다운로드 및 설치 화면 실행"
 }
