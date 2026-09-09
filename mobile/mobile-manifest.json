@@ -1,8 +1,8 @@
 {
   "product": "HOPASS",
-  "versionCode": 9,
-  "versionName": "0.7.0",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.0.apk",
-  "sha256": "8c020b10706edc4b766c7a1ca2eb16443e5c11555afa74cace678e5beddff375",
-  "notes": "출입 실패 원인 표시, 감지 범위를 설정으로 이동, 앱 안에서 GitHub 업데이트 지원"
+  "versionCode": 10,
+  "versionName": "0.7.1",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.1.apk",
+  "sha256": "0fce766e151bb958970aca401fea47089ffe98429b4dcd3613394b79b36dae81",
+  "notes": "토큰을 서버에서 실제 인증한 뒤에만 저장하고 사원증 인증 상태와 권한 수를 실시간 표시"
 }
