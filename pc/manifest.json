@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.6.1",
-  "url": "hopass-server-v0.6.1.zip",
-  "file": "hopass-server-v0.6.1.zip",
-  "sha256": "939c70da9c297a13513920ad9198ad3e33b4631db492659f571b604c21729dda",
-  "notes": "Cloudflare 일회용 연결 복구 기능 추가",
-  "published_at": "2026-09-09T23:48:00+09:00"
+  "version": "0.6.2",
+  "url": "hopass-server-v0.6.2.zip",
+  "file": "hopass-server-v0.6.2.zip",
+  "sha256": "af1fb3eb8af815d4431e2a14b97f2622c37ae64c830166d2c4ac473544ea86ec",
+  "notes": "직원 삭제 및 암호화된 현재 토큰 조회 추가",
+  "published_at": "2026-09-10T00:05:00+09:00"
 }
