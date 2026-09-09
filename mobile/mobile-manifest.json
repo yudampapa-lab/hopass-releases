@@ -1,8 +1,8 @@
 {
   "product": "HOPASS",
-  "versionCode": 12,
-  "versionName": "0.7.3",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.3.apk",
-  "sha256": "af7939fff3ad454765776d76a0ec062a28936d5d14d0fec080eecf9d08ff8714",
-  "notes": "2초 이내 자동 개방 판정, 처리 대기 개선, 일회용 등록 코드 화면 간소화"
+  "versionCode": 13,
+  "versionName": "0.7.4",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.4.apk",
+  "sha256": "0f9330a54ca25b0b1b6ed8e2c25fba0d0828abaa2549962be5aeda82d56c193e",
+  "notes": "나의 감지 범위를 1~30m로 확대"
 }
