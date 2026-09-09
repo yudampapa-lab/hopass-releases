@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.6.4",
-  "url": "hopass-server-v0.6.4.zip",
-  "file": "hopass-server-v0.6.4.zip",
-  "sha256": "91b99135ad6c8376314f4b7fd7fd72c763eb740851498c46979de1f70333707b",
-  "notes": "10분 유효 일회용 모바일 등록 코드 발급",
-  "published_at": "2026-09-10T00:37:00+09:00"
+  "version": "0.6.5",
+  "url": "hopass-server-v0.6.5.zip",
+  "file": "hopass-server-v0.6.5.zip",
+  "sha256": "073baccd7c7d9654954b02e8b803748f72fb449ef9fb2db54c64f340e1e76c74",
+  "notes": "2초 이내 자동 개방 최적화, 비콘 수정, Tailscale 관리자 링크, 등록 코드 간소화",
+  "published_at": "2026-09-10T00:49:04.7656082+09:00"
 }

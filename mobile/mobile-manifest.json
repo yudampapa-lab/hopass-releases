@@ -1,8 +1,8 @@
 {
   "product": "HOPASS",
-  "versionCode": 11,
-  "versionName": "0.7.2",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.2.apk",
-  "sha256": "235550abac0d354d19b6c72ee7217349bc2e8365fcab8d1a0d97f9b1b548ed59",
-  "notes": "12자리 일회용 등록 코드로 직원 연결 지원"
+  "versionCode": 12,
+  "versionName": "0.7.3",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.3.apk",
+  "sha256": "af7939fff3ad454765776d76a0ec062a28936d5d14d0fec080eecf9d08ff8714",
+  "notes": "2초 이내 자동 개방 판정, 처리 대기 개선, 일회용 등록 코드 화면 간소화"
 }
