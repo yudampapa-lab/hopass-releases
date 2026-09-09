@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.6.2",
-  "url": "hopass-server-v0.6.2.zip",
-  "file": "hopass-server-v0.6.2.zip",
-  "sha256": "af1fb3eb8af815d4431e2a14b97f2622c37ae64c830166d2c4ac473544ea86ec",
-  "notes": "직원 삭제 및 암호화된 현재 토큰 조회 추가",
-  "published_at": "2026-09-10T00:05:00+09:00"
+  "version": "0.6.3",
+  "url": "hopass-server-v0.6.3.zip",
+  "file": "hopass-server-v0.6.3.zip",
+  "sha256": "e8b42437144ab7bf165c10e8ae25b6e25b3d85e8f2cfc1f030f83186fb430d54",
+  "notes": "등록 직원의 토큰을 유지한 출입 권한 수정 추가",
+  "published_at": "2026-09-10T00:22:00+09:00"
 }
