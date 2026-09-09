@@ -1,8 +1,8 @@
 {
   "product": "HOPASS",
-  "versionCode": 13,
-  "versionName": "0.7.4",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.4.apk",
-  "sha256": "0f9330a54ca25b0b1b6ed8e2c25fba0d0828abaa2549962be5aeda82d56c193e",
-  "notes": "나의 감지 범위를 1~30m로 확대"
+  "versionCode": 14,
+  "versionName": "0.7.5",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.5.apk",
+  "sha256": "11537bfd77006b29f1ffa823b68396e21b52cc564d5f1f3128b819b906b7caac",
+  "notes": "최초 실행 등록코드 필수, 직원 연결 유지, 사원증 햇빛 광택 효과, 자동 다운로드 및 설치 화면 실행"
 }
