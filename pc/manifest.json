@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.6.0",
-  "url": "hopass-server-v0.6.0.zip",
-  "file": "hopass-server-v0.6.0.zip",
-  "sha256": "df2831269229875c5f7e4b8f447c1601d9ed3b1ec3e00ac3f0eac56b50ec5004",
-  "notes": "Cloudflare 외부 중계, 출입관리 페이지, GitHub 자동 업데이트 전환",
-  "published_at": "2026-09-09T23:25:00+09:00"
+  "version": "0.6.1",
+  "url": "hopass-server-v0.6.1.zip",
+  "file": "hopass-server-v0.6.1.zip",
+  "sha256": "939c70da9c297a13513920ad9198ad3e33b4631db492659f571b604c21729dda",
+  "notes": "Cloudflare 일회용 연결 복구 기능 추가",
+  "published_at": "2026-09-09T23:48:00+09:00"
 }
