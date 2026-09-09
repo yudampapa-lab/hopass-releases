@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.6.6",
-  "url": "hopass-server-v0.6.6.zip",
-  "file": "hopass-server-v0.6.6.zip",
-  "sha256": "c1d3c6c238b293a59704f6605740e47a1b9b8bffe79aa78282271987cb17600d",
-  "notes": "2초 이내 자동 개방 최적화, 저지연 장기 대기 중계, 비콘 수정, Tailscale 관리자 링크, 등록 코드 간소화",
-  "published_at": "2026-09-10T00:54:38.9601236+09:00"
+  "version": "0.6.7",
+  "url": "hopass-server-v0.6.7.zip",
+  "file": "hopass-server-v0.6.7.zip",
+  "sha256": "d38bca221d16a5035a84781b4a5801e33e17c947c756474a04910af74895948c",
+  "notes": "2초 이내 자동 개방, 저지연 중계, 출입구 비콘 수정·연속 등록, Tailscale 관리자 링크, 등록 코드 간소화",
+  "published_at": "2026-09-10T00:58:09.0122059+09:00"
 }
