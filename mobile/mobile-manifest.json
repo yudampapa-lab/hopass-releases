@@ -1,11 +1,16 @@
 {
   "product": "HOPASS",
-  "versionCode": 25,
-  "versionName": "0.8.6",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.8.6.apk",
-  "sha256": "c527f68b0fc4828345b2b130750d8fa3c3265d7981c7a88a626904f83deb0358",
-  "notes": "백그라운드 미작동 시간 설정, 다운로드 완료 후 설치 자동 재개, 앱 내 업데이트 내역 표시",
+  "versionCode": 26,
+  "versionName": "0.8.7",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.8.7.apk",
+  "sha256": "07f3c39662b39f2f5792ca883d8bbce5de3fc5682e219b64d85efb6d52864532",
+  "notes": "설정 화면에서 등록된 비콘 정보 숨김",
   "history": [
+    {
+      "version": "0.8.7",
+      "date": "2026-09-10",
+      "notes": "설정 화면에서 등록된 비콘 정보 숨김"
+    },
     {
       "version": "0.8.6",
       "date": "2026-09-10",
