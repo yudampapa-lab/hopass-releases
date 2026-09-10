@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.7.1",
-  "url": "hopass-server-v0.7.1.zip",
-  "file": "hopass-server-v0.7.1.zip",
-  "sha256": "ef1aa497b4a4146bdf5cdf489057a0863cc80ca1e9dda9d1bbc6b6f996f824f1",
-  "notes": "현재 버전 로그 기록기 자동 연결, HUGEN DB 기록 재시도, 10초 재개방 지원",
-  "published_at": "2026-09-10T12:10:26.8609867+09:00"
+  "version": "0.7.2",
+  "url": "hopass-server-v0.7.2.zip",
+  "file": "hopass-server-v0.7.2.zip",
+  "sha256": "f3ecc245d8af47e3b46ddcab2c7a2aa27f9c237f15760bd4bc785ce655e944a9",
+  "notes": "출입구별 5~300초 재개방 간격 설정 및 관리자 화면 지원",
+  "published_at": "2026-09-10T12:26:24.1252006+09:00"
 }

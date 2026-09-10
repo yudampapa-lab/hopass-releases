@@ -1,8 +1,8 @@
 {
   "product": "HOPASS",
-  "versionCode": 17,
-  "versionName": "0.7.8",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.8.apk",
-  "sha256": "6dcedf93fb7b90819ae694e36a854160d291ad72de3cc21f51a2b9a296c11591",
-  "notes": "같은 비콘 범위에서 10초 간격 자동 재개방 및 HUGEN 기록 오류 상세 표시"
+  "versionCode": 18,
+  "versionName": "0.7.9",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.9.apk",
+  "sha256": "ec66796a06849776c8d7db88b1f77b1b491215dbc3d0c9e19f11349fd577a164",
+  "notes": "관리자가 설정한 출입구별 재개방 간격으로 자동 감지 재요청"
 }
