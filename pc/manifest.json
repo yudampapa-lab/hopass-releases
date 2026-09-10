@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.6.9",
-  "url": "hopass-server-v0.6.9.zip",
-  "file": "hopass-server-v0.6.9.zip",
-  "sha256": "c14daeff815139bfe35b61e1fd85e00b6c7c3e18ba70cab4c32ee2de6806a84b",
-  "notes": "실제 연동 실행 오류 수정 및 7개 출입구 HUGEN 다중 장비 연결",
-  "published_at": "2026-09-10T11:30:08.2574775+09:00"
+  "version": "0.7.0",
+  "url": "hopass-server-v0.7.0.zip",
+  "file": "hopass-server-v0.7.0.zip",
+  "sha256": "e40b244995add1f6bb606352a16cbbd89b41802792546251d4db4cff138fdf51",
+  "notes": "HUGEN 연결을 끊지 않는 장비 직접 연동과 전체 장비 출입 로그 기록 수정",
+  "published_at": "2026-09-10T11:48:00.2907496+09:00"
 }
