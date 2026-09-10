@@ -1,8 +1,8 @@
 {
   "product": "HOPASS",
-  "versionCode": 18,
-  "versionName": "0.7.9",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.9.apk",
-  "sha256": "ec66796a06849776c8d7db88b1f77b1b491215dbc3d0c9e19f11349fd577a164",
-  "notes": "관리자가 설정한 출입구별 재개방 간격으로 자동 감지 재요청"
+  "versionCode": 19,
+  "versionName": "0.8.0",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.8.0.apk",
+  "sha256": "ba83ae6b235475daf4ac1d3635112eb49b601cb0c438a6fbc44d2d8841852f09",
+  "notes": "문별 감지 거리 적용 및 개인 최대 감지 범위 지원"
 }
