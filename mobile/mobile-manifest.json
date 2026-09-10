@@ -1,11 +1,16 @@
 {
   "product": "HOPASS",
-  "versionCode": 28,
-  "versionName": "0.8.9",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.8.9.apk",
-  "sha256": "b0efbca98f5a363873d3685b1cda9b2a14d99d93130638d76ba3422ad1329375",
-  "notes": "HODI 로고를 살린 다크 골드 프리미엄 디자인 적용",
+  "versionCode": 29,
+  "versionName": "0.9.0",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.0.apk",
+  "sha256": "0d92974382b48de79422bf61f5b1d5f851f82a85dfec4371be031c9b3081b079",
+  "notes": "다크 골드 시안에 맞춘 대형 원형 문 열림 버튼 적용",
   "history": [
+    {
+      "version": "0.9.0",
+      "date": "2026-09-10",
+      "notes": "다크 골드 시안에 맞춘 대형 원형 문 열림 버튼 적용"
+    },
     {
       "version": "0.8.9",
       "date": "2026-09-10",
