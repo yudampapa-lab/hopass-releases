@@ -1,11 +1,16 @@
 {
   "product": "HOPASS",
-  "versionCode": 34,
-  "versionName": "0.9.5",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.5.apk",
-  "sha256": "6d026c2820ce738c31f6966ea052d496703e0c2be5f351079e842e44787badca",
-  "notes": "질감 사원증, 양각 메달, 다중 골드 링 문 열림 버튼 구현",
+  "versionCode": 35,
+  "versionName": "0.9.6",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.6.apk",
+  "sha256": "89c1d39d30100795c9b15208190c11bef8f0258870dcf17cb6f3995a2148a9fa",
+  "notes": "접근 대기 상태의 잠금 아이콘, 브론즈 링과 안내 문구 완성",
   "history": [
+    {
+      "version": "0.9.6",
+      "date": "2026-09-10",
+      "notes": "접근 대기 상태의 잠금 아이콘, 브론즈 링과 안내 문구 완성"
+    },
     {
       "version": "0.9.5",
       "date": "2026-09-10",
