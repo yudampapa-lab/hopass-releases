@@ -1,11 +1,16 @@
 {
   "product": "HOPASS",
-  "versionCode": 29,
-  "versionName": "0.9.0",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.0.apk",
-  "sha256": "0d92974382b48de79422bf61f5b1d5f851f82a85dfec4371be031c9b3081b079",
-  "notes": "다크 골드 시안에 맞춘 대형 원형 문 열림 버튼 적용",
+  "versionCode": 30,
+  "versionName": "0.9.1",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.1.apk",
+  "sha256": "9ba787901a91b4fed8d17b93faf8f7f99457f3844ce33692830fbac636af70e2",
+  "notes": "출입·기록·설정 탭 상단 당겨서 새로고침 기능 추가",
   "history": [
+    {
+      "version": "0.9.1",
+      "date": "2026-09-10",
+      "notes": "출입·기록·설정 탭 상단 당겨서 새로고침 기능 추가"
+    },
     {
       "version": "0.9.0",
       "date": "2026-09-10",
