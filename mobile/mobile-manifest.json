@@ -1,8 +1,8 @@
 {
   "product": "HOPASS",
-  "versionCode": 16,
-  "versionName": "0.7.7",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.7.apk",
-  "sha256": "7564f297b6b878d0696fc57c54a8b5730f3853614169c2bbc94d7539ae96068e",
-  "notes": "비콘 UUID·Major·Minor 동적 설정 및 동기화, 제조사 고정 제거, 자동 문열기 스위치 동작 개선"
+  "versionCode": 17,
+  "versionName": "0.7.8",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.8.apk",
+  "sha256": "6dcedf93fb7b90819ae694e36a854160d291ad72de3cc21f51a2b9a296c11591",
+  "notes": "같은 비콘 범위에서 10초 간격 자동 재개방 및 HUGEN 기록 오류 상세 표시"
 }

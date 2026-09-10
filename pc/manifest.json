@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.7.0",
-  "url": "hopass-server-v0.7.0.zip",
-  "file": "hopass-server-v0.7.0.zip",
-  "sha256": "e40b244995add1f6bb606352a16cbbd89b41802792546251d4db4cff138fdf51",
-  "notes": "HUGEN 연결을 끊지 않는 장비 직접 연동과 전체 장비 출입 로그 기록 수정",
-  "published_at": "2026-09-10T11:48:00.2907496+09:00"
+  "version": "0.7.1",
+  "url": "hopass-server-v0.7.1.zip",
+  "file": "hopass-server-v0.7.1.zip",
+  "sha256": "ef1aa497b4a4146bdf5cdf489057a0863cc80ca1e9dda9d1bbc6b6f996f824f1",
+  "notes": "현재 버전 로그 기록기 자동 연결, HUGEN DB 기록 재시도, 10초 재개방 지원",
+  "published_at": "2026-09-10T12:10:26.8609867+09:00"
 }
