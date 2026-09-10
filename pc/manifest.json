@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.6.7",
-  "url": "hopass-server-v0.6.7.zip",
-  "file": "hopass-server-v0.6.7.zip",
-  "sha256": "d38bca221d16a5035a84781b4a5801e33e17c947c756474a04910af74895948c",
-  "notes": "2초 이내 자동 개방, 저지연 중계, 출입구 비콘 수정·연속 등록, Tailscale 관리자 링크, 등록 코드 간소화",
-  "published_at": "2026-09-10T00:58:09.0122059+09:00"
+  "version": "0.6.8",
+  "url": "hopass-server-v0.6.8.zip",
+  "file": "hopass-server-v0.6.8.zip",
+  "sha256": "1c3fec8deca8812a963fe573e5845e118bccff994fc72d679d1b8bb8c86fbb8c",
+  "notes": "7개 출입구 HUGEN 장비 사전 매핑 및 출입구별 문 열림·출입 로그 지원",
+  "published_at": "2026-09-10T11:12:04.2458052+09:00"
 }
