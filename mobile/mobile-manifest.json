@@ -1,11 +1,16 @@
 {
   "product": "HOPASS",
-  "versionCode": 27,
-  "versionName": "0.8.8",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.8.8.apk",
-  "sha256": "bc4585019a5f4bf37f7e14124b1651376aff35ff6a7481c92f7b3928e4e8dac8",
-  "notes": "모든 앱 버튼 터치 효과와 햅틱 추가, 문 개방 성공 시 강한 진동 알림",
+  "versionCode": 28,
+  "versionName": "0.8.9",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.8.9.apk",
+  "sha256": "b0efbca98f5a363873d3685b1cda9b2a14d99d93130638d76ba3422ad1329375",
+  "notes": "HODI 로고를 살린 다크 골드 프리미엄 디자인 적용",
   "history": [
+    {
+      "version": "0.8.9",
+      "date": "2026-09-10",
+      "notes": "HODI 로고를 살린 다크 골드 프리미엄 디자인 적용"
+    },
     {
       "version": "0.8.8",
       "date": "2026-09-10",
