@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.7.3",
-  "url": "hopass-server-v0.7.3.zip",
-  "file": "hopass-server-v0.7.3.zip",
-  "sha256": "be8dde867261b15fdcb17f5fa5cb13a56dbd6083592bb43f7f3c401c0ac71b47",
-  "notes": "출입구별 1~30m 감지 거리와 재개방 간격 관리자 설정",
-  "published_at": "2026-09-10T12:39:49.4569725+09:00"
+  "version": "0.7.4",
+  "url": "hopass-server-v0.7.4.zip",
+  "file": "hopass-server-v0.7.4.zip",
+  "sha256": "7edbb8a695908705645510cf47fad9a42e646fc7ec52243d73aa68c6dadf3705",
+  "notes": "여러 출입구 명령 병렬 처리로 문별 독립 개방 지원",
+  "published_at": "2026-09-10T13:34:16.7185793+09:00"
 }
