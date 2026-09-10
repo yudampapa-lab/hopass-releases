@@ -1,8 +1,8 @@
 {
   "product": "HOPASS",
-  "versionCode": 23,
-  "versionName": "0.8.4",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.8.4.apk",
-  "sha256": "fb683e417d1dd54831811e60d204eea1349b6871a15e99d87be21f709892c30f",
-  "notes": "강한 근접 비콘 첫 패킷 즉시 반응, 경계 신호 100ms 확인, 빠른 신호 필터"
+  "versionCode": 24,
+  "versionName": "0.8.5",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.8.5.apk",
+  "sha256": "5c7d146f302600f41fd3c5e7e4c69d1c284f9a9532c7ddb6bdd3d8ccb524bab8",
+  "notes": "다중 비콘 중 강한 신호 표시 및 문 열림을 발생시킨 비콘 정보 5초 고정"
 }
