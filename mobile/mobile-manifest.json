@@ -1,11 +1,16 @@
 {
   "product": "HOPASS",
-  "versionCode": 33,
-  "versionName": "0.9.4",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.4.apk",
-  "sha256": "8e7085637e110fde0cf580b37bc9ab96213bfe4357aa9756172f00f0e0cf73fc",
-  "notes": "정밀 다크 골드 디자인, 탭·카드 전환, 개방 성공 모션 적용",
+  "versionCode": 34,
+  "versionName": "0.9.5",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.5.apk",
+  "sha256": "6d026c2820ce738c31f6966ea052d496703e0c2be5f351079e842e44787badca",
+  "notes": "질감 사원증, 양각 메달, 다중 골드 링 문 열림 버튼 구현",
   "history": [
+    {
+      "version": "0.9.5",
+      "date": "2026-09-10",
+      "notes": "질감 사원증, 양각 메달, 다중 골드 링 문 열림 버튼 구현"
+    },
     {
       "version": "0.9.4",
       "date": "2026-09-10",
