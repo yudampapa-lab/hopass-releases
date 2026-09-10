@@ -1,8 +1,35 @@
 {
   "product": "HOPASS",
-  "versionCode": 24,
-  "versionName": "0.8.5",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.8.5.apk",
-  "sha256": "5c7d146f302600f41fd3c5e7e4c69d1c284f9a9532c7ddb6bdd3d8ccb524bab8",
-  "notes": "다중 비콘 중 강한 신호 표시 및 문 열림을 발생시킨 비콘 정보 5초 고정"
+  "versionCode": 25,
+  "versionName": "0.8.6",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.8.6.apk",
+  "sha256": "c527f68b0fc4828345b2b130750d8fa3c3265d7981c7a88a626904f83deb0358",
+  "notes": "백그라운드 미작동 시간 설정, 다운로드 완료 후 설치 자동 재개, 앱 내 업데이트 내역 표시",
+  "history": [
+    {
+      "version": "0.8.6",
+      "date": "2026-09-10",
+      "notes": "백그라운드 미작동 시간 설정, 다운로드 완료 후 설치 자동 재개, 앱 내 업데이트 내역 표시"
+    },
+    {
+      "version": "0.8.5",
+      "date": "2026-09-09",
+      "notes": "다중 비콘 중 강한 신호 표시 및 문 열림을 발생시킨 비콘 정보 5초 고정"
+    },
+    {
+      "version": "0.8.4",
+      "date": "2026-09-09",
+      "notes": "강한 근접 비콘 첫 패킷 즉시 반응, 경계 신호 100ms 확인, 빠른 신호 필터"
+    },
+    {
+      "version": "0.8.3",
+      "date": "2026-09-09",
+      "notes": "문별 다중 비콘 설정 15초 자동 동기화 및 실제 감지 비콘 기록"
+    },
+    {
+      "version": "0.8.2",
+      "date": "2026-09-09",
+      "notes": "같은 출입구에 등록된 여러 비콘 중 하나를 감지하면 동일한 문 개방"
+    }
+  ]
 }
