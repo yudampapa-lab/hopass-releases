@@ -1,11 +1,16 @@
 {
   "product": "HOPASS",
-  "versionCode": 32,
-  "versionName": "0.9.3",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.3.apk",
-  "sha256": "46b0c888efefa56c21b5d01583b4c13c2e7bbbe6eae450573036263bbfec636a",
-  "notes": "새로고침 토스트를 중앙 원형 골드 액션으로 교체",
+  "versionCode": 33,
+  "versionName": "0.9.4",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.4.apk",
+  "sha256": "8e7085637e110fde0cf580b37bc9ab96213bfe4357aa9756172f00f0e0cf73fc",
+  "notes": "정밀 다크 골드 디자인, 탭·카드 전환, 개방 성공 모션 적용",
   "history": [
+    {
+      "version": "0.9.4",
+      "date": "2026-09-10",
+      "notes": "정밀 다크 골드 디자인, 탭·카드 전환, 개방 성공 모션 적용"
+    },
     {
       "version": "0.9.3",
       "date": "2026-09-10",
