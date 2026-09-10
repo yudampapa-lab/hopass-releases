@@ -1,8 +1,8 @@
 {
   "product": "HOPASS",
-  "versionCode": 20,
-  "versionName": "0.8.1",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.8.1.apk",
-  "sha256": "e4404983d73ca45ab0d03747a1290cd27f6c68b43e7805634b6df6989a4efe38",
-  "notes": "비콘 저지연 적극 감지, 150ms 확인, 출입구별 독립 병렬 개방"
+  "versionCode": 21,
+  "versionName": "0.8.2",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.8.2.apk",
+  "sha256": "23ddd3cecc775a354b6ca658183f837a20c655f13e1f8d58b1ca67cc80c0a0ea",
+  "notes": "같은 출입구에 등록된 여러 비콘 중 하나를 감지하면 동일한 문 개방"
 }
