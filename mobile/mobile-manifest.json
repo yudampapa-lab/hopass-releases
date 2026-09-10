@@ -1,8 +1,8 @@
 {
   "product": "HOPASS",
-  "versionCode": 15,
-  "versionName": "0.7.6",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.6.apk",
-  "sha256": "d85d1897aa520ae29833acf8536c5105ed240505598c86b4c54cdb3ebf93a038",
-  "notes": "최초 실행 등록코드 필수, 직원 연결 유지, 사원증 햇빛 광택, 백그라운드 자동 업데이트 다운로드 및 설치 화면 실행"
+  "versionCode": 16,
+  "versionName": "0.7.7",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.7.7.apk",
+  "sha256": "7564f297b6b878d0696fc57c54a8b5730f3853614169c2bbc94d7539ae96068e",
+  "notes": "비콘 UUID·Major·Minor 동적 설정 및 동기화, 제조사 고정 제거, 자동 문열기 스위치 동작 개선"
 }
