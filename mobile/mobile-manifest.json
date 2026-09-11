@@ -1,11 +1,16 @@
 {
   "product": "HOPASS",
-  "versionCode": 37,
-  "versionName": "0.9.8",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.8.apk",
-  "sha256": "c3fb5b065a728f81e6b4c0b8cc9e8b7bfa8eeb620cb1be0de57afb93e1fd5cf1",
-  "notes": "토·일요일별 백그라운드 미작동 설정과 출입 탭의 적용 상태·설정 시간 표시 추가",
+  "versionCode": 38,
+  "versionName": "0.9.9",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.9.apk",
+  "sha256": "89c0261fad40dfbb861576a7cf050b506109e9b3ac4080cb2b6b02f8876fd649",
+  "notes": "출입 화면의 휴식 시간 안내를 현재 적용 구간·전체 예약·사용 가능 상태가 구분되는 정교한 카드로 개선",
   "history": [
+    {
+      "version": "0.9.9",
+      "date": "2026-09-11",
+      "notes": "출입 화면의 휴식 시간 안내를 현재 적용 구간·전체 예약·사용 가능 상태가 구분되는 정교한 카드로 개선"
+    },
     {
       "version": "0.9.8",
       "date": "2026-09-11",
