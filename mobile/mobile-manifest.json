@@ -1,11 +1,16 @@
 {
   "product": "HOPASS",
-  "versionCode": 36,
-  "versionName": "0.9.7",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.7.apk",
-  "sha256": "ef44f9f9159dc9fc24b230caa7e3d1c2536e6809801df7cdd2d54bc9f91c544c",
-  "notes": "문 열림 자물쇠 위치 조정, 배경 없는 새로고침 표시, 사원증 3D 한 바퀴 회전 애니메이션 추가",
+  "versionCode": 37,
+  "versionName": "0.9.8",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.8.apk",
+  "sha256": "c3fb5b065a728f81e6b4c0b8cc9e8b7bfa8eeb620cb1be0de57afb93e1fd5cf1",
+  "notes": "토·일요일별 백그라운드 미작동 설정과 출입 탭의 적용 상태·설정 시간 표시 추가",
   "history": [
+    {
+      "version": "0.9.8",
+      "date": "2026-09-11",
+      "notes": "토·일요일별 백그라운드 미작동 설정과 출입 탭의 적용 상태·설정 시간 표시 추가"
+    },
     {
       "version": "0.9.7",
       "date": "2026-09-11",
