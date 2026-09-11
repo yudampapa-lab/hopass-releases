@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.7.8",
-  "url": "hopass-server-v0.7.8.zip",
-  "file": "hopass-server-v0.7.8.zip",
-  "sha256": "94836f024bdd139f0c0dd85bcfb8c9fc8c50258de08c8258174d360c39d8c1bf",
-  "notes": "HUGEN 로그인 후 자료수집 시작 자동화, 30초 감시 주기 및 자동 유지 중단 메뉴 추가",
-  "published_at": "2026-09-11T15:08:18.2264093+09:00"
+  "version": "0.7.9",
+  "url": "hopass-server-v0.7.9.zip",
+  "file": "hopass-server-v0.7.9.zip",
+  "sha256": "442d043a3db606db500bed3a4daad1927b2cb629e61e8f15cf58a169e8c5229a",
+  "notes": "로그인 성공 확인창 자동 처리 후 상단 자료수집과 시작 버튼을 순서대로 실행",
+  "published_at": "2026-09-11T16:38:58.2019288+09:00"
 }
