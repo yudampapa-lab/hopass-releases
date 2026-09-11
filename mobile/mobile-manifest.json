@@ -1,11 +1,16 @@
 {
   "product": "HOPASS",
-  "versionCode": 38,
-  "versionName": "0.9.9",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.9.apk",
-  "sha256": "89c0261fad40dfbb861576a7cf050b506109e9b3ac4080cb2b6b02f8876fd649",
-  "notes": "출입 화면의 휴식 시간 안내를 현재 적용 구간·전체 예약·사용 가능 상태가 구분되는 정교한 카드로 개선",
+  "versionCode": 39,
+  "versionName": "0.9.10",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.10.apk",
+  "sha256": "3b10f3aa98f49f05f46703740aa34064d1a4d70088617a831751d319e894dd42",
+  "notes": "출입 기록을 날짜별 간결한 타임라인으로 정리하고 내부 비콘·서버 정보를 숨김. 사원증 빛 반사를 이중 하이라이트로 정교화하고 주기를 2배 느리게 조정",
   "history": [
+    {
+      "version": "0.9.10",
+      "date": "2026-09-11",
+      "notes": "출입 기록을 날짜별 간결한 타임라인으로 정리하고 내부 비콘·서버 정보를 숨김. 사원증 빛 반사를 이중 하이라이트로 정교화하고 주기를 2배 느리게 조정"
+    },
     {
       "version": "0.9.9",
       "date": "2026-09-11",
