@@ -1,11 +1,16 @@
 {
   "product": "HOPASS",
-  "versionCode": 35,
-  "versionName": "0.9.6",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.6.apk",
-  "sha256": "89c1d39d30100795c9b15208190c11bef8f0258870dcf17cb6f3995a2148a9fa",
-  "notes": "접근 대기 상태의 잠금 아이콘, 브론즈 링과 안내 문구 완성",
+  "versionCode": 36,
+  "versionName": "0.9.7",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.7.apk",
+  "sha256": "ef44f9f9159dc9fc24b230caa7e3d1c2536e6809801df7cdd2d54bc9f91c544c",
+  "notes": "문 열림 자물쇠 위치 조정, 배경 없는 새로고침 표시, 사원증 3D 한 바퀴 회전 애니메이션 추가",
   "history": [
+    {
+      "version": "0.9.7",
+      "date": "2026-09-11",
+      "notes": "문 열림 자물쇠 위치 조정, 배경 없는 새로고침 표시, 사원증 3D 한 바퀴 회전 애니메이션 추가"
+    },
     {
       "version": "0.9.6",
       "date": "2026-09-10",
