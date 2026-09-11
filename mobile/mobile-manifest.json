@@ -1,11 +1,16 @@
 {
-  "product": "HOPASS",
-  "versionCode": 40,
-  "versionName": "0.9.11",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.11.apk",
-  "sha256": "ba30e7a87f68c8ab864904cb1914fc2113c83807be5f995f5c2647fc190e0037",
-  "notes": "사원증의 띠형 반사를 제거하고 위치·밝기·크기가 천천히 변화하는 부드러운 자연 채광 효과로 교체",
+  "product": "HODI PASS",
+  "versionCode": 41,
+  "versionName": "0.9.12",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.12.apk",
+  "sha256": "6d959571e9ea347d8c009e430c1f0bf794dc05f180633a6d8d10339a45f38c21",
+  "notes": "앱 표시 명칭을 HODI PASS로 통일하고 사원증 자연 채광의 중심 밝기와 확산 범위를 강화",
   "history": [
+    {
+      "version": "0.9.12",
+      "date": "2026-09-11",
+      "notes": "앱 표시 명칭을 HODI PASS로 통일하고 사원증 자연 채광의 중심 밝기와 확산 범위를 강화"
+    },
     {
       "version": "0.9.11",
       "date": "2026-09-11",
