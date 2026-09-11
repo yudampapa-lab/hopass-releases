@@ -1,11 +1,16 @@
 {
   "product": "HOPASS",
-  "versionCode": 39,
-  "versionName": "0.9.10",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.10.apk",
-  "sha256": "3b10f3aa98f49f05f46703740aa34064d1a4d70088617a831751d319e894dd42",
-  "notes": "출입 기록을 날짜별 간결한 타임라인으로 정리하고 내부 비콘·서버 정보를 숨김. 사원증 빛 반사를 이중 하이라이트로 정교화하고 주기를 2배 느리게 조정",
+  "versionCode": 40,
+  "versionName": "0.9.11",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HOPASS-0.9.11.apk",
+  "sha256": "ba30e7a87f68c8ab864904cb1914fc2113c83807be5f995f5c2647fc190e0037",
+  "notes": "사원증의 띠형 반사를 제거하고 위치·밝기·크기가 천천히 변화하는 부드러운 자연 채광 효과로 교체",
   "history": [
+    {
+      "version": "0.9.11",
+      "date": "2026-09-11",
+      "notes": "사원증의 띠형 반사를 제거하고 위치·밝기·크기가 천천히 변화하는 부드러운 자연 채광 효과로 교체"
+    },
     {
       "version": "0.9.10",
       "date": "2026-09-11",
