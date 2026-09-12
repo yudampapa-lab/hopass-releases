@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 42,
-  "versionName": "0.9.13",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.13.apk",
-  "sha256": "d5aa6b36ed439f15d7311d690ad40003d7065a1de902ace52e543e6a7dcb3313",
-  "notes": "강한 자연 채광이 4.9초 동안 사원증 전체를 통과하고 6초 뒤 반복되도록 개선. HODI 로고 i 점의 낙하·2회 바운스·복귀 터치 애니메이션 추가",
+  "versionCode": 43,
+  "versionName": "0.9.14",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.14.apk",
+  "sha256": "a6381350cc92ccea2964417fd9ca9b4ede911041122ebf2cf66493701985861a",
+  "notes": "상단 HODI 로고를 정적 이미지로 복원하고 로고 터치 애니메이션 제거. 사원증 채광은 이전 밝기로 낮추고 좌우 통과 시간을 9.8초로 조정, 반복 간격 6초 유지",
   "history": [
+    {
+      "version": "0.9.14",
+      "date": "2026-09-12",
+      "notes": "상단 HODI 로고를 정적 이미지로 복원하고 로고 터치 애니메이션 제거. 사원증 채광은 이전 밝기로 낮추고 좌우 통과 시간을 9.8초로 조정, 반복 간격 6초 유지"
+    },
     {
       "version": "0.9.13",
       "date": "2026-09-12",
