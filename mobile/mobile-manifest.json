@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 52,
-  "versionName": "0.9.23",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.23.apk",
-  "sha256": "5431b8643bcf73f919139fe669cf547b4f6bb90555cf8c4ac8d26885f5309839",
-  "notes": "NFC 인증을 문별 연속 출입 제한에서 제외하고 재태그할 때마다 즉시 새 출입 요청 처리",
+  "versionCode": 53,
+  "versionName": "0.9.24",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.24.apk",
+  "sha256": "fcee5826668242455e43ef60535601ac791188ba579a15629ac5332a5df99a38",
+  "notes": "문 열림 버튼을 입체 구형으로 정교화하고 비콘 탐색 중 신비로운 명암·크기·그림자 맥동 적용",
   "history": [
     {
-      "version": "0.9.23",
+      "version": "0.9.24",
       "date": "2026-09-13",
-      "notes": "NFC 출입구 등록과 즉시 인증, 관리자 UID 확인, 잠금 화면 출입 승인 알림, 인증 방식과 성공·실패 사유 기록, 사용자용 출입기록 문구를 정리. 사원증에는 활성화한 Tagless·NFC 방식만 금색 배지로 표시하고 NFC 성공 전용 골드 액션을 적용. NFC 인증은 문별 재개방 간격에서 제외해 재태그할 때마다 즉시 새 요청 처리"
+      "notes": "NFC 즉시 인증과 연속 출입, 관리자 UID 확인, 잠금 화면 알림, 인증 방식·성공·실패 사유 기록을 적용. 사원증에는 활성화한 Tagless·NFC 금색 배지와 NFC 성공 전용 골드 액션을 추가. 문 열림 버튼은 더 작은 입체 구형으로 다듬고 비콘 탐색 중 명암·크기·그림자가 호흡하는 신비로운 구슬 효과를 적용"
     },
     {
       "version": "0.9.14",
