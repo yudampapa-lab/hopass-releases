@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 45,
-  "versionName": "0.9.16",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.16.apk",
-  "sha256": "8e1ae773c7a79ce6e4ccfd62564713524dba9e4a3e4a60ec56022a5d3980d830",
-  "notes": "NFC 태그를 휴대폰에서 떼기 전에 즉시 인식되도록 읽기 순서 개선. Android가 발견 시 확보한 NDEF 내용을 사용해 지연 제거",
+  "versionCode": 46,
+  "versionName": "0.9.17",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.17.apk",
+  "sha256": "705b7d3bc7f7d507317cdc8dd172ebde255a84efa6f93bae39b9dffe67eeec7f",
+  "notes": "PC 관리자 출입구별 NFC UID 등록과 실제 문 개방 연결. 사번 1041 관리자 전용 UID 표시·복사 옵션 추가",
   "history": [
+    {
+      "version": "0.9.17",
+      "date": "2026-09-13",
+      "notes": "PC 관리자 출입구별 NFC UID 등록과 실제 문 개방 연결. 사번 1041 관리자 전용 UID 표시·복사 옵션 추가"
+    },
     {
       "version": "0.9.16",
       "date": "2026-09-13",

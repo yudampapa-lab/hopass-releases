@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.7.9",
-  "url": "hopass-server-v0.7.9.zip",
-  "file": "hopass-server-v0.7.9.zip",
-  "sha256": "442d043a3db606db500bed3a4daad1927b2cb629e61e8f15cf58a169e8c5229a",
-  "notes": "로그인 성공 확인창 자동 처리 후 상단 자료수집과 시작 버튼을 순서대로 실행",
-  "published_at": "2026-09-11T16:38:58.2019288+09:00"
+  "version": "0.8.0",
+  "url": "hopass-server-v0.8.0.zip",
+  "file": "hopass-server-v0.8.0.zip",
+  "sha256": "01532173f4041ead8f043c1b02b46595794e92808f59262c961185601a8433ba",
+  "notes": "PC 관리자에서 출입구별 NFC UID 등록·수정 및 NFC 문 개방 중계 지원",
+  "published_at": "2026-09-13T17:12:33.9076555+09:00"
 }
