@@ -1,9 +1,9 @@
 {
   "product": "HOPASS",
-  "version": "0.8.0",
-  "url": "hopass-server-v0.8.0.zip",
-  "file": "hopass-server-v0.8.0.zip",
-  "sha256": "01532173f4041ead8f043c1b02b46595794e92808f59262c961185601a8433ba",
-  "notes": "PC 관리자에서 출입구별 NFC UID 등록·수정 및 NFC 문 개방 중계 지원",
-  "published_at": "2026-09-13T17:12:33.9076555+09:00"
+  "version": "0.8.1",
+  "url": "hopass-server-v0.8.1.zip",
+  "file": "hopass-server-v0.8.1.zip",
+  "sha256": "449e1bf0757fe61fff522261947adae3786d4cf6f7ae433be9572b2ee42f0e8b",
+  "notes": "NFC 관리자 기능과 최신 NFC 중계 주소 자동 전환",
+  "published_at": "2026-09-13T17:32:17.5717036+09:00"
 }

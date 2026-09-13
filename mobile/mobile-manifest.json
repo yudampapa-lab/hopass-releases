@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 46,
-  "versionName": "0.9.17",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.17.apk",
-  "sha256": "705b7d3bc7f7d507317cdc8dd172ebde255a84efa6f93bae39b9dffe67eeec7f",
-  "notes": "PC 관리자 출입구별 NFC UID 등록과 실제 문 개방 연결. 사번 1041 관리자 전용 UID 표시·복사 옵션 추가",
+  "versionCode": 47,
+  "versionName": "0.9.18",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.18.apk",
+  "sha256": "443fa83f4a15bfc85451e358eada15d47afa5580c1fd7be25aa9b575c65b8275",
+  "notes": "사번 1041 관리자용 NFC UID 표시·복사 옵션 노출 보강 및 최신 NFC 중계 주소 자동 전환",
   "history": [
+    {
+      "version": "0.9.18",
+      "date": "2026-09-13",
+      "notes": "사번 1041 관리자용 NFC UID 표시·복사 옵션 노출 보강 및 최신 NFC 중계 주소 자동 전환"
+    },
     {
       "version": "0.9.17",
       "date": "2026-09-13",
