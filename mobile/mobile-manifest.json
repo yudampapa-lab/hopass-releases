@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 43,
-  "versionName": "0.9.14",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.14.apk",
-  "sha256": "a6381350cc92ccea2964417fd9ca9b4ede911041122ebf2cf66493701985861a",
-  "notes": "상단 HODI 로고를 정적 이미지로 복원하고 로고 터치 애니메이션 제거. 사원증 채광은 이전 밝기로 낮추고 좌우 통과 시간을 9.8초로 조정, 반복 간격 6초 유지",
+  "versionCode": 44,
+  "versionName": "0.9.15",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.15.apk",
+  "sha256": "a5ee3c4244e4cd1b146594989f0e0f525335daa27c73bf6da19e03a2705ce1f2",
+  "notes": "설정에서 켜고 끌 수 있는 NFC 태그 읽기 옵션 추가. 일반 NFC 태그의 UID, 규격과 NDEF 저장 내용을 확인하고 최근 인식 UID를 보관",
   "history": [
+    {
+      "version": "0.9.15",
+      "date": "2026-09-13",
+      "notes": "설정에서 켜고 끌 수 있는 NFC 태그 읽기 옵션 추가. 일반 NFC 태그의 UID, 규격과 NDEF 저장 내용을 확인하고 최근 인식 UID를 보관"
+    },
     {
       "version": "0.9.14",
       "date": "2026-09-12",
