@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 44,
-  "versionName": "0.9.15",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.15.apk",
-  "sha256": "a5ee3c4244e4cd1b146594989f0e0f525335daa27c73bf6da19e03a2705ce1f2",
-  "notes": "설정에서 켜고 끌 수 있는 NFC 태그 읽기 옵션 추가. 일반 NFC 태그의 UID, 규격과 NDEF 저장 내용을 확인하고 최근 인식 UID를 보관",
+  "versionCode": 45,
+  "versionName": "0.9.16",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.16.apk",
+  "sha256": "8e1ae773c7a79ce6e4ccfd62564713524dba9e4a3e4a60ec56022a5d3980d830",
+  "notes": "NFC 태그를 휴대폰에서 떼기 전에 즉시 인식되도록 읽기 순서 개선. Android가 발견 시 확보한 NDEF 내용을 사용해 지연 제거",
   "history": [
+    {
+      "version": "0.9.16",
+      "date": "2026-09-13",
+      "notes": "NFC 태그를 휴대폰에서 떼기 전에 즉시 인식되도록 읽기 순서 개선. Android가 발견 시 확보한 NDEF 내용을 사용해 지연 제거"
+    },
     {
       "version": "0.9.15",
       "date": "2026-09-13",
