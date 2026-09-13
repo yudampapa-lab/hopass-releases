@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 49,
-  "versionName": "0.9.20",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.20.apk",
-  "sha256": "5f364c66352eae34f778bc6e5b678f8778fbc1381e73ae7fa34a3245fcf63e1e",
-  "notes": "모바일 사용자 화면의 HUGEN 명칭을 제거하고 출입기록 등록 완료·실패 표현으로 통일",
+  "versionCode": 50,
+  "versionName": "0.9.21",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.21.apk",
+  "sha256": "dce079092b43153a68928ac1296e8b87be9ad397df9ae1082359a58a81cb3dc5",
+  "notes": "사원증에 활성화된 인증 방식만 보여주는 금색 Tagless·NFC 배지 추가",
   "history": [
     {
-      "version": "0.9.20",
+      "version": "0.9.21",
       "date": "2026-09-13",
-      "notes": "NFC 출입구 등록과 즉시 인증, 관리자 UID 확인, 잠금 화면 출입 승인 알림, NFC·태그리스 방식 및 성공·실패 사유 기록을 추가하고 사용자 화면의 출입기록 문구를 정리"
+      "notes": "NFC 출입구 등록과 즉시 인증, 관리자 UID 확인, 잠금 화면 출입 승인 알림, NFC·태그리스 방식 및 성공·실패 사유 기록을 추가하고 사용자 화면의 출입기록 문구를 정리. 사원증에는 설정에서 활성화한 Tagless·NFC 인증 방식만 금색 배지로 표시"
     },
     {
       "version": "0.9.14",
