@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 51,
-  "versionName": "0.9.22",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.22.apk",
-  "sha256": "53fcbec3457d5a761824d6d2d2404c73248cbe3cfe33439eb1ac653a5895e6b9",
-  "notes": "NFC 인증 성공 시 화면 탄성 반동, 3중 골드 파동, 미세 입자와 잠금 해제 메달이 이어지는 전용 성공 액션 추가",
+  "versionCode": 52,
+  "versionName": "0.9.23",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.23.apk",
+  "sha256": "5431b8643bcf73f919139fe669cf547b4f6bb90555cf8c4ac8d26885f5309839",
+  "notes": "NFC 인증을 문별 연속 출입 제한에서 제외하고 재태그할 때마다 즉시 새 출입 요청 처리",
   "history": [
     {
-      "version": "0.9.22",
+      "version": "0.9.23",
       "date": "2026-09-13",
-      "notes": "NFC 출입구 등록과 즉시 인증, 관리자 UID 확인, 잠금 화면 출입 승인 알림, 인증 방식과 성공·실패 사유 기록, 사용자용 출입기록 문구를 정리. 사원증에는 활성화한 Tagless·NFC 방식만 금색 배지로 표시하고 NFC 성공 시 화면 탄성 반동·3중 골드 파동·미세 입자·잠금 해제 메달 애니메이션을 적용"
+      "notes": "NFC 출입구 등록과 즉시 인증, 관리자 UID 확인, 잠금 화면 출입 승인 알림, 인증 방식과 성공·실패 사유 기록, 사용자용 출입기록 문구를 정리. 사원증에는 활성화한 Tagless·NFC 방식만 금색 배지로 표시하고 NFC 성공 전용 골드 액션을 적용. NFC 인증은 문별 재개방 간격에서 제외해 재태그할 때마다 즉시 새 요청 처리"
     },
     {
       "version": "0.9.14",
