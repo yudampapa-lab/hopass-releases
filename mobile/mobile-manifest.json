@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 53,
-  "versionName": "0.9.24",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.24.apk",
-  "sha256": "fcee5826668242455e43ef60535601ac791188ba579a15629ac5332a5df99a38",
-  "notes": "문 열림 버튼을 입체 구형으로 정교화하고 비콘 탐색 중 신비로운 명암·크기·그림자 맥동 적용",
+  "versionCode": 54,
+  "versionName": "0.9.25",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.25.apk",
+  "sha256": "f13f389935f485a43d8fc8128c1246cb076fb60e254af6a78b886db50e60d6ee",
+  "notes": "앱을 시작할 때 최신 버전을 즉시 확인하고, 새 버전 발견 시 다크 골드 업데이트 안내를 표시한 뒤 자동 다운로드와 설치 화면 연결을 진행",
   "history": [
+    {
+      "version": "0.9.25",
+      "date": "2026-09-15",
+      "notes": "앱을 시작할 때 최신 버전을 즉시 확인하고, 새 버전 발견 시 다크 골드 업데이트 안내를 표시한 뒤 자동 다운로드와 설치 화면 연결을 진행"
+    },
     {
       "version": "0.9.24",
       "date": "2026-09-13",
