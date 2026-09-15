@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 54,
-  "versionName": "0.9.25",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.25.apk",
-  "sha256": "f13f389935f485a43d8fc8128c1246cb076fb60e254af6a78b886db50e60d6ee",
-  "notes": "앱을 시작할 때 최신 버전을 즉시 확인하고, 새 버전 발견 시 다크 골드 업데이트 안내를 표시한 뒤 자동 다운로드와 설치 화면 연결을 진행",
+  "versionCode": 55,
+  "versionName": "0.9.26",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.26.apk",
+  "sha256": "16804a875a3a93df82f269f33611a63adfa8b246658f8edf88eac4dc5ff6a034",
+  "notes": "앱 시작 시 최신 버전을 즉시 확인하고 자동 다운로드·설치 화면 연결을 진행. 기존 다크 골드는 그대로 유지하면서 화이트 블루 디자인 선택을 추가하고, 화이트 블루의 HODI 로고는 원본 블루로 표시. 다크 골드 사원증은 기존 태양빛을 유지하고 화이트 블루 사원증에는 물방울 애니메이션을 적용",
   "history": [
     {
-      "version": "0.9.25",
+      "version": "0.9.26",
       "date": "2026-09-15",
-      "notes": "앱을 시작할 때 최신 버전을 즉시 확인하고, 새 버전 발견 시 다크 골드 업데이트 안내를 표시한 뒤 자동 다운로드와 설치 화면 연결을 진행"
+      "notes": "앱 시작 시 최신 버전을 즉시 확인하고 자동 다운로드·설치 화면 연결을 진행. 기존 다크 골드는 그대로 유지하면서 화이트 블루 디자인 선택을 추가하고, 화이트 블루의 HODI 로고는 원본 블루로 표시. 다크 골드 사원증은 기존 태양빛을 유지하고 화이트 블루 사원증에는 물방울 애니메이션을 적용"
     },
     {
       "version": "0.9.24",
