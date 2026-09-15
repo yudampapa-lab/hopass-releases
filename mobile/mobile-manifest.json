@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 60,
-  "versionName": "0.9.31",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.31.apk",
-  "sha256": "b24bbbe37e1011e6a36c04118fb6f4542d226df742be3a536f0385e8973b9f68",
-  "notes": "앱을 열거나 백그라운드에서 다시 돌아올 때 최신 버전을 확인하고 멈춘 다운로드를 자동 복구. 새 버전 안내창의 무한 회전 표시를 제거하고 취소·설치 선택을 제공하며, 설치를 선택한 경우에만 다운로드 시작. 기존 다크 골드 태양빛과 화이트 블루 디자인을 유지하고 화이트 블루 물방울 효과는 제거",
+  "versionCode": 61,
+  "versionName": "0.9.32",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.32.apk",
+  "sha256": "fd74faf73c47a058f570f39d1dd6f318188992f035cc7b8becdfd04a127326a5",
+  "notes": "화면 디자인 선택 카드의 배경·제목·설명색을 테마별로 분리해 가독성을 개선. 나의 최대 감지 범위 설정과 개인 거리 제한을 제거해 PC 관리자의 문별 감지 거리만 사용. 신규 설치는 거리 감지 자동 개방, NFC 태그 출입, 출입 승인 알림을 기본 활성화하며 관리자 NFC UID 표시도 기본 활성화",
   "history": [
+    {
+      "version": "0.9.32",
+      "date": "2026-09-16",
+      "notes": "화면 디자인 선택 카드의 배경·제목·설명색을 테마별로 분리해 가독성을 개선. 나의 최대 감지 범위 설정과 개인 거리 제한을 제거해 PC 관리자의 문별 감지 거리만 사용. 신규 설치는 거리 감지 자동 개방, NFC 태그 출입, 출입 승인 알림을 기본 활성화하며 관리자 NFC UID 표시도 기본 활성화"
+    },
     {
       "version": "0.9.31",
       "date": "2026-09-15",
