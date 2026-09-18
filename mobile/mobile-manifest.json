@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 65,
-  "versionName": "0.9.36",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.36.apk",
-  "sha256": "3a9424725e77486420ba933d08ca5865a9abbf053f980569396964af37434f64",
-  "notes": "지하1층 ESP32 비콘 수신을 개선했습니다. UUID·Major·Minor는 고정하고 레이더 개방 조건은 그대로 적용합니다.",
+  "versionCode": 66,
+  "versionName": "0.9.37",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.37.apk",
+  "sha256": "cc9347dd0583ed9cc948c6598a0fa3cc7a8aa1c4de8062a9651c9be2cda73886",
+  "notes": "지하1층 비콘 감지를 개선하고 앱에서 주변 BLE 수신 상태를 확인할 수 있습니다.",
   "history": [
     {
-      "version": "0.8.5",
+      "version": "0.9.37",
       "date": "2026-09-09",
-      "notes": "문별 다중 비콘, 독립 감지와 재개방 간격, 빠른 근접 인식 및 실시간 출입구 동기화를 적용"
+      "notes": "지하1층 ESP32의 UUID·Major·Minor를 고정하고 IDLE 비콘을 앱에 표시합니다. 레이더 개방 상태에서만 출입 요청하며 화면을 켠 동안 넓은 BLE 스캔으로 비콘 수신 호환성을 개선했습니다. 출입구를 찾지 못할 때 주변 BLE 신호 수를 표시합니다."
     },
     {
       "version": "0.9.6",
