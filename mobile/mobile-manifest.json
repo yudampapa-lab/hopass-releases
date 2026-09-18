@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 67,
-  "versionName": "0.9.38",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.38.apk",
-  "sha256": "89ca26b306554f61f5070c1b2b35ed4be078748ebb07eeebb573dd178258080b",
-  "notes": "지하1층 비콘 원시 광고 인식과 상세 BLE 수신 진단을 추가했습니다.",
+  "versionCode": 68,
+  "versionName": "0.9.39",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.39.apk",
+  "sha256": "cbd72a31675262534b2f37719b9302170cc100925fca2b45d967ab538d8eb463",
+  "notes": "지하1층 표준 iBeacon 펌웨어와 호환되며 레이더 조건에서만 출입을 요청합니다.",
   "history": [
     {
-      "version": "0.9.38",
+      "version": "0.9.39",
       "date": "2026-09-09",
-      "notes": "지하1층 ESP32의 UUID·Major·Minor를 고정하고 IDLE 비콘을 앱에 표시합니다. 레이더 개방 상태에서만 출입 요청하며 BLE 광고 수신 호환성을 개선했습니다. 출입구를 찾지 못할 때 전체 BLE·iBeacon·B1 신호 수를 표시합니다."
+      "notes": "지하1층 ESP32의 UUID·Major·Minor를 고정하고 IDLE 비콘을 앱에 표시합니다. 화면을 켠 동안 BLE 원시 광고를 읽고 수신 건수를 보여줍니다. 표준 길이 iBeacon 펌웨어와 호환되며 레이더 개방 조건에서만 출입 요청을 보냅니다."
     },
     {
       "version": "0.9.6",
