@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 63,
-  "versionName": "0.9.34",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.34.apk",
-  "sha256": "72698aebbac0a5ae96efe19e43ef4193754f89e6e9be3d39501386416906bfe8",
-  "notes": "지하1층 ESP32의 대기 BLE 신호를 연결 상태로 표시하고, 레이더 접근 시 송출되는 개방 신호에만 출입 요청합니다.",
+  "versionCode": 64,
+  "versionName": "0.9.35",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.35.apk",
+  "sha256": "d8e94bade152a1c91bfb65598ef62ccfe143850173f35f603770536748952efd",
+  "notes": "지하1층 BLE UUID·Major·Minor를 고정하고 별도 레이더 상태값으로 대기와 개방 조건을 구분합니다.",
   "history": [
+    {
+      "version": "0.9.35",
+      "date": "2026-09-19",
+      "notes": "지하1층 ESP32의 UUID·Major·Minor를 항상 동일하게 사용합니다. 앱은 별도 레이더 상태값이 개방 가능일 때만 기존 서버로 출입 요청을 보냅니다."
+    },
     {
       "version": "0.9.34",
       "date": "2026-09-19",
