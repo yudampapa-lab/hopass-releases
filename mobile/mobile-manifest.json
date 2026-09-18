@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 62,
-  "versionName": "0.9.33",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.33.apk",
-  "sha256": "ad1dd5e5d57a24f98e183ac01d669c4a4eacb01416444e570efa5a02d9c05dd4",
-  "notes": "화면 디자인 선택 가독성 개선, 개인 최대 감지 범위 제거와 신규 설치 자동 개방·NFC 기본 활성화. 업데이트 파일을 앱 내부에 직접 내려받아 SHA-256 검증 후 Android 설치 화면을 자동 실행하도록 설치 방식을 교체",
+  "versionCode": 63,
+  "versionName": "0.9.34",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.34.apk",
+  "sha256": "72698aebbac0a5ae96efe19e43ef4193754f89e6e9be3d39501386416906bfe8",
+  "notes": "지하1층 ESP32의 대기 BLE 신호를 연결 상태로 표시하고, 레이더 접근 시 송출되는 개방 신호에만 출입 요청합니다.",
   "history": [
+    {
+      "version": "0.9.34",
+      "date": "2026-09-19",
+      "notes": "지하1층 ESP32 대기 신호를 앱 화면에 표시합니다. 레이더 접근 조건이 성립했을 때 전환되는 기존 지하1층 비콘 신호에만 문 개방을 요청합니다."
+    },
     {
       "version": "0.9.33",
       "date": "2026-09-16",
