@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 71,
-  "versionName": "0.9.42",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.42.apk",
-  "sha256": "b4e118d0cf409c651df39dba9414d1da3348274b6473a3b4993a3bc47bc5077b",
-  "notes": "삼성 Android가 ESP32 iBeacon 광고를 제조사 데이터 또는 변형된 원시 바이트로 전달하는 경우를 모두 인식하도록 BLE 파서를 보강했습니다.",
+  "versionCode": 72,
+  "versionName": "0.9.43",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.43.apk",
+  "sha256": "b7408e3cf888fab3b2e6eff6795ae841cd11666976d5c286a926defb8a9ecfc3",
+  "notes": "지하1층 ESP32는 삼성 Android가 안정적으로 수신하는 HODI 기본 BLE 광고를 사용합니다. UUID·Major·Minor는 기존 등록값 그대로 유지하며 LD2450 상태만 별도 필드로 전달합니다.",
   "history": [
     {
-      "version": "0.9.42",
+      "version": "0.9.43",
       "date": "2026-09-20",
-      "notes": "지하1층 ESP32 송출과 운영 서버 등록을 검증하고 Android BLE 필터를 제거했습니다. 제조사 ID 포함 형식과 길이 필드가 변형된 원시 광고에서도 UUID·Major·Minor를 직접 복구합니다."
+      "notes": "ESP32-C3 지하1층 노드에 HODI 기본 BLE 광고 형식을 추가했습니다. 스캔 응답 없이 UUID·Major·Minor와 LD2450 IDLE·ACTIVE 상태를 한 패킷으로 수신합니다."
     },
     {
       "version": "0.9.6",
