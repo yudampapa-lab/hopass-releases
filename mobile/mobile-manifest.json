@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 69,
-  "versionName": "0.9.40",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.40.apk",
-  "sha256": "31744384cb3931cc3ca682ee0e3ba9cc14a853fe65935e82a69acb478eb99e6f",
-  "notes": "정상 인식되던 0.9.33과 동일한 iBeacon 제조사 필터를 복원해 BLE 광고가 많은 환경에서도 등록 출입구 신호를 정확히 수신합니다.",
+  "versionCode": 70,
+  "versionName": "0.9.41",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.41.apk",
+  "sha256": "f6c0894317d5ee4f29fcda14aec9e9b433d663f34107b4ab28250fd7d5c1aca7",
+  "notes": "ESP32-C3가 송출하는 정상 iBeacon 광고가 Android 제조사 필터에서 누락되는 문제를 해결했습니다. 앱이 주변 BLE 광고를 직접 수신해 UUID·Major·Minor를 판별하며 진단 표기는 표준 비콘으로 정리했습니다.",
   "history": [
     {
-      "version": "0.9.40",
+      "version": "0.9.41",
       "date": "2026-09-20",
-      "notes": "정상 인식되던 0.9.33의 iBeacon 제조사 필터를 그대로 복원했습니다. UUID·Major·Minor는 고정하며 LD2450은 문 열림 조건으로만 사용합니다."
+      "notes": "지하1층 ESP32 비콘의 실제 송출 패킷과 운영 서버 등록값을 대조했습니다. Android 제조사 필터를 제거하고 앱 내부에서 UUID·Major·Minor를 직접 판별해 기기별 필터 호환 문제를 해결했습니다."
     },
     {
       "version": "0.9.6",
