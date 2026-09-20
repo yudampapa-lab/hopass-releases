@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 68,
-  "versionName": "0.9.39",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.39.apk",
-  "sha256": "cbd72a31675262534b2f37719b9302170cc100925fca2b45d967ab538d8eb463",
-  "notes": "지하1층 표준 iBeacon 펌웨어와 호환되며 레이더 조건에서만 출입을 요청합니다.",
+  "versionCode": 69,
+  "versionName": "0.9.40",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.40.apk",
+  "sha256": "31744384cb3931cc3ca682ee0e3ba9cc14a853fe65935e82a69acb478eb99e6f",
+  "notes": "정상 인식되던 0.9.33과 동일한 iBeacon 제조사 필터를 복원해 BLE 광고가 많은 환경에서도 등록 출입구 신호를 정확히 수신합니다.",
   "history": [
     {
-      "version": "0.9.39",
-      "date": "2026-09-09",
-      "notes": "지하1층 ESP32의 UUID·Major·Minor를 고정하고 IDLE 비콘을 앱에 표시합니다. 화면을 켠 동안 BLE 원시 광고를 읽고 수신 건수를 보여줍니다. 표준 길이 iBeacon 펌웨어와 호환되며 레이더 개방 조건에서만 출입 요청을 보냅니다."
+      "version": "0.9.40",
+      "date": "2026-09-20",
+      "notes": "정상 인식되던 0.9.33의 iBeacon 제조사 필터를 그대로 복원했습니다. UUID·Major·Minor는 고정하며 LD2450은 문 열림 조건으로만 사용합니다."
     },
     {
       "version": "0.9.6",
