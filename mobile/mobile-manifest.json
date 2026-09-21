@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 74,
-  "versionName": "0.9.45",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.45.apk",
-  "sha256": "48aefdb7b5747150f29686a90a0d7311673dc125597e568ea891272513a68753",
-  "notes": "슈퍼관리자에게만 출입구 운영 설정과 현장 장비 Wi-Fi 등록 메뉴를 표시합니다. 거리·이동 방향·좌우 조건, 직원 슈퍼관리자 권한과 원격 업데이트를 운영 화면에서 관리할 수 있습니다.",
+  "versionCode": 75,
+  "versionName": "0.9.46",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.46.apk",
+  "sha256": "8cf4be30eedc2940470a39a9f72ba813726e9834cf71035819186b056991aecf",
+  "notes": "슈퍼관리자용 현장 장비 Wi-Fi 등록 도구 연결을 개선했습니다. 출입구 동작 조건, 직원 권한과 원격 업데이트를 운영 화면에서 관리할 수 있습니다.",
   "history": [
+    {
+      "version": "0.9.46",
+      "date": "2026-09-21",
+      "notes": "현장 장비 Wi-Fi 등록 버튼을 공식 등록 도구와 연결하고 슈퍼관리자 운영 흐름을 정리했습니다."
+    },
     {
       "version": "0.9.45",
       "date": "2026-09-21",

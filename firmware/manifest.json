@@ -1,0 +1,8 @@
+{
+  "doorId": "b1-parking",
+  "version": "1.0.1-managed",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/firmware/HODI-B1-1.0.1-managed.bin",
+  "sha256": "b5a8281100d9ffe20bdeebc994ec8914df3ec8e4b8a737b05e6d91190c5918e8",
+  "size": 1414192,
+  "publishedAt": "2026-09-21T00:00:00+09:00"
+}
