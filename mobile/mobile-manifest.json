@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 88,
-  "versionName": "0.9.59",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.59.apk",
-  "sha256": "47394b366f8b003a6d1a5b8dc40cdc4678dca6f932d3d98915f226e046c2033f",
-  "notes": "출입 탭은 가로폭을 채우고 세로 스크롤 없이 맞춥니다. 사원증과 문 열림 버튼·여백을 간결하게 다듬어 글자 크기를 최대한 유지하고, 이름·출입구 상태·안내 글자를 더 키웠습니다.",
+  "versionCode": 89,
+  "versionName": "0.9.60",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.60.apk",
+  "sha256": "618fe2bbfb93002a2f5f324e9919b87665f7195b2f03dd0c869b3d83d569d4de",
+  "notes": "출입 탭은 가로폭을 채우고 세로 스크롤 없이 맞춥니다. 카드 여백을 다듬고 주요 글자를 키웠으며, 문 열림 원형 버튼의 겹친 테두리를 없애 자연스러운 명암으로 정리했습니다.",
   "history": [
     {
       "date": "2026-09-29",
-      "notes": "출입 탭은 가로폭을 채우고 세로 스크롤 없이 맞춥니다. 사원증과 문 열림 버튼·여백을 간결하게 다듬어 글자 크기를 최대한 유지하고, 이름·출입구 상태·안내 글자를 더 키웠습니다.",
-      "version": "0.9.59"
+      "notes": "출입 탭은 가로폭을 채우고 세로 스크롤 없이 맞춥니다. 카드 여백을 다듬고 주요 글자를 키웠으며, 문 열림 원형 버튼의 겹친 테두리를 없애 자연스러운 명암으로 정리했습니다.",
+      "version": "0.9.60"
     },
     {
       "date": "2026-09-28",
