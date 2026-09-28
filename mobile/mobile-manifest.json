@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 87,
-  "versionName": "0.9.58",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.58.apk",
-  "sha256": "ccfcda9a73656414330eb56caf1a14947652ebdff85a1c9aef4cdaa7e7c76fc0",
+  "versionCode": 88,
+  "versionName": "0.9.59",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.59.apk",
+  "sha256": "47394b366f8b003a6d1a5b8dc40cdc4678dca6f932d3d98915f226e046c2033f",
   "notes": "출입 탭은 가로폭을 채우고 세로 스크롤 없이 맞춥니다. 사원증과 문 열림 버튼·여백을 간결하게 다듬어 글자 크기를 최대한 유지하고, 이름·출입구 상태·안내 글자를 더 키웠습니다.",
   "history": [
     {
       "date": "2026-09-29",
       "notes": "출입 탭은 가로폭을 채우고 세로 스크롤 없이 맞춥니다. 사원증과 문 열림 버튼·여백을 간결하게 다듬어 글자 크기를 최대한 유지하고, 이름·출입구 상태·안내 글자를 더 키웠습니다.",
-      "version": "0.9.58"
+      "version": "0.9.59"
     },
     {
       "date": "2026-09-28",
