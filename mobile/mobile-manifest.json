@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 84,
-  "versionName": "0.9.55",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.55.apk",
-  "sha256": "af2de77bf30e5b2d8a90dff4da8a735b4da0a93f5d9483c7a5bc8fb707769c8c",
-  "notes": "설정된 자동 감지 휴식 시간·토/일요일에는 앱을 열어도 BLE 출입구 감지와 자동 문 열림 요청이 멈추고, 휴식 후 자동 재개됩니다. 상시 서비스 알림은 잠금 화면에 보이지 않게 낮추고, 문 열림과 출입 오류 때만 결과 알림을 표시합니다.",
+  "versionCode": 85,
+  "versionName": "0.9.56",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.56.apk",
+  "sha256": "54232ce6d528e1ddbdf712a2d3bbdc5452f9ee135a52cdd92c48e2d4ff495f95",
+  "notes": "출입 탭이 휴대폰 화면의 남은 높이에 맞춰 자동으로 크기를 조절해 세로 스크롤 없이 사원증·감지 상태·문 열림 버튼을 표시합니다. 아래로 당겨 새로고침은 유지했습니다. 설정한 휴식 시간에는 앱을 열어도 감지를 중지하고, 잠금 화면의 상시 감지 알림 대신 문 열림·오류 알림만 표시합니다.",
   "history": [
     {
       "date": "2026-09-28",
-      "notes": "설정된 자동 감지 휴식 시간·토/일요일에는 앱을 열어도 BLE 출입구 감지와 자동 문 열림 요청이 멈추고, 휴식 후 자동 재개됩니다. 상시 서비스 알림은 잠금 화면에 보이지 않게 낮추고, 문 열림과 출입 오류 때만 결과 알림을 표시합니다.",
-      "version": "0.9.55"
+      "notes": "출입 탭이 휴대폰 화면의 남은 높이에 맞춰 자동으로 크기를 조절해 세로 스크롤 없이 사원증·감지 상태·문 열림 버튼을 표시합니다. 아래로 당겨 새로고침은 유지했습니다. 설정한 휴식 시간에는 앱을 열어도 감지를 중지하고, 잠금 화면의 상시 감지 알림 대신 문 열림·오류 알림만 표시합니다.",
+      "version": "0.9.56"
     },
     {
       "date": "2026-09-27",
