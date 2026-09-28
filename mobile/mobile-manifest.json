@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 89,
-  "versionName": "0.9.60",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.60.apk",
-  "sha256": "618fe2bbfb93002a2f5f324e9919b87665f7195b2f03dd0c869b3d83d569d4de",
-  "notes": "출입 탭은 가로폭을 채우고 세로 스크롤 없이 맞춥니다. 카드 여백을 다듬고 주요 글자를 키웠으며, 문 열림 원형 버튼의 겹친 테두리를 없애 자연스러운 명암으로 정리했습니다.",
+  "versionCode": 90,
+  "versionName": "0.9.61",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.61.apk",
+  "sha256": "a3ccee9b760ca769e473271cbc1a7152a6247e582803725034e72c8b94ccd9f6",
+  "notes": "직원 등록 후 출입구 자동 감지를 바로 시작하고, 설정한 휴식 시간이 끝나면 감지를 자동으로 재개합니다. 직접 감지를 중지한 경우에는 중지 상태를 유지합니다. 출입 화면 글자와 원형 버튼 디자인도 다듬었습니다.",
   "history": [
     {
       "date": "2026-09-29",
-      "notes": "출입 탭은 가로폭을 채우고 세로 스크롤 없이 맞춥니다. 카드 여백을 다듬고 주요 글자를 키웠으며, 문 열림 원형 버튼의 겹친 테두리를 없애 자연스러운 명암으로 정리했습니다.",
-      "version": "0.9.60"
+      "notes": "직원 등록 후 출입구 자동 감지를 바로 시작하고, 설정한 휴식 시간이 끝나면 감지를 자동으로 재개합니다. 직접 감지를 중지한 경우에는 중지 상태를 유지합니다. 출입 화면 글자와 원형 버튼 디자인도 다듬었습니다.",
+      "version": "0.9.61"
     },
     {
       "date": "2026-09-28",
