@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 90,
-  "versionName": "0.9.61",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.61.apk",
-  "sha256": "a3ccee9b760ca769e473271cbc1a7152a6247e582803725034e72c8b94ccd9f6",
-  "notes": "직원 등록 후 출입구 자동 감지를 바로 시작하고, 설정한 휴식 시간이 끝나면 감지를 자동으로 재개합니다. 직접 감지를 중지한 경우에는 중지 상태를 유지합니다. 출입 화면 글자와 원형 버튼 디자인도 다듬었습니다.",
+  "versionCode": 91,
+  "versionName": "0.9.62",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.62.apk",
+  "sha256": "12e2e178a4d10f25b168861d7e98fc00e5ca20b70fe176f8a6787eba984d8dcb",
+  "notes": "2층 도서관·전력 비콘을 동시에 감지하고 각 출입구의 센서 이동 조건을 독립적으로 확인합니다. B2·B1·2층 출입구는 센서 활성 신호가 있을 때만 자동 출입을 요청하며, 비콘 추정 거리가 30m 이상이면 자동 요청을 막습니다.",
   "history": [
+    {
+      "date": "2026-09-30",
+      "notes": "2층 도서관·전력 비콘을 동시에 감지하고 각 출입구의 센서 이동 조건을 독립적으로 확인합니다. B2·B1·2층 출입구는 센서 활성 신호가 있을 때만 자동 출입을 요청하며, 비콘 추정 거리가 30m 이상이면 자동 요청을 막습니다.",
+      "version": "0.9.62"
+    },
     {
       "date": "2026-09-29",
       "notes": "직원 등록 후 출입구 자동 감지를 바로 시작하고, 설정한 휴식 시간이 끝나면 감지를 자동으로 재개합니다. 직접 감지를 중지한 경우에는 중지 상태를 유지합니다. 출입 화면 글자와 원형 버튼 디자인도 다듬었습니다.",
