@@ -1,9 +1,9 @@
 {
+  "file": "hopass-server-v0.8.2.zip",
+  "version": "0.8.2",
+  "notes": "휴젠 로그인 후 자료수집 복구 개선: 실시간통신 체크 확인, 그림 메뉴 처리, 창 준비 대기, 수집 시작 상태 검증 및 무한 대기 방지",
+  "published_at": "2026-10-13T15:13:19.5601689+09:00",
+  "url": "hopass-server-v0.8.2.zip",
   "product": "HOPASS",
-  "version": "0.8.1",
-  "url": "hopass-server-v0.8.1.zip",
-  "file": "hopass-server-v0.8.1.zip",
-  "sha256": "449e1bf0757fe61fff522261947adae3786d4cf6f7ae433be9572b2ee42f0e8b",
-  "notes": "NFC 관리자 기능과 최신 NFC 중계 주소 자동 전환",
-  "published_at": "2026-09-13T17:32:17.5717036+09:00"
+  "sha256": "ba1ee7615afcf544b36cc6e37624678a8582b212ee75b1d3a5c49cc500e22768"
 }
