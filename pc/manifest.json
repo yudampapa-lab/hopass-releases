@@ -1,9 +1,9 @@
 {
-  "file": "hopass-server-v0.8.2.zip",
-  "version": "0.8.2",
-  "notes": "휴젠 로그인 후 자료수집 복구 개선: 실시간통신 체크 확인, 그림 메뉴 처리, 창 준비 대기, 수집 시작 상태 검증 및 무한 대기 방지",
-  "published_at": "2026-10-13T15:13:19.5601689+09:00",
-  "url": "hopass-server-v0.8.2.zip",
+  "file": "hopass-server-v0.8.3.zip",
+  "version": "0.8.3",
+  "notes": "관리자 사이트에 사원별 주차·할인권 권한, HODIPARKING 연결 코드, 할인·방문권 처리 내역과 불확실 결과 확인 기능을 추가했습니다. hodi_00001 계정의 보유 할인권을 사용합니다.",
+  "published_at": "2026-10-15T14:20:58.071Z",
+  "url": "hopass-server-v0.8.3.zip",
   "product": "HOPASS",
-  "sha256": "ba1ee7615afcf544b36cc6e37624678a8582b212ee75b1d3a5c49cc500e22768"
+  "sha256": "0d4932681fc2b16b2c37319f117a65e08675c771359bbf8c4a085a74f49450d4"
 }
