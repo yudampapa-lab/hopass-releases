@@ -1,15 +1,15 @@
 {
   "product": "HODI PASS",
-  "versionCode": 109,
-  "versionName": "0.9.80",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.80.apk",
-  "sha256": "9a1927926ba85d4795835e55447b35c37df96f0a451b29ee732d47b4f9e1c2f3",
-  "notes": "문 열림 성공 화면을 문열기 완료, 성공 알림을 출입문 열림 완료로 수정했습니다. 차량 조회 API 오류를 운영 서버에서 수정하고, 정문·지하1층·지하2층 CCTV의 외부 영상 중계를 연결했습니다. 별도 주차 연결 프로그램 설치나 연결 코드 입력 없이 기존 HODIPARKING 서비스를 사용합니다.",
+  "versionCode": 110,
+  "versionName": "0.9.81",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.81.apk",
+  "sha256": "5bf4642f2e20755333b7e09803f25f3141baad29724ee2af7d1eb2f87f06b3b6",
+  "notes": "방문·차량·설정 탭은 작은 크기의 제목만 남기고 상단 장식 문구와 설명을 정리했습니다. 출입 탭의 사원증 위 빈 공간을 줄였습니다. 성공 화면은 문열기 완료, 성공 알림은 출입문 열림 완료로 표시합니다. 차량 조회 요청 오류를 수정하고 정문·지하1층·지하2층 CCTV의 외부 영상 중계를 연결했습니다.",
   "history": [
     {
       "date": "2026-10-16",
-      "version": "0.9.80",
-      "notes": "문 열림 성공 화면을 문열기 완료, 성공 알림을 출입문 열림 완료로 수정했습니다. 차량 조회 API 오류를 운영 서버에서 수정하고, 정문·지하1층·지하2층 CCTV의 외부 영상 중계를 연결했습니다. 별도 주차 연결 프로그램 설치나 연결 코드 입력 없이 기존 HODIPARKING 서비스를 사용합니다."
+      "version": "0.9.81",
+      "notes": "방문·차량·설정 탭은 작은 크기의 제목만 남기고 상단 장식 문구와 설명을 정리했습니다. 출입 탭의 사원증 위 빈 공간을 줄였습니다. 성공 화면은 문열기 완료, 성공 알림은 출입문 열림 완료로 표시합니다. 차량 조회 요청 오류를 수정하고 정문·지하1층·지하2층 CCTV의 외부 영상 중계를 연결했습니다."
     },
     {
       "date": "2026-10-15",
