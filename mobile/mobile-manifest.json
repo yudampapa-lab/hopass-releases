@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 115,
-  "versionName": "0.9.86",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.86.apk",
-  "sha256": "9961b5ce2863e32b3e775e5686fffe39d7711505d287d2c98edb7e5a23933132",
-  "notes": "문이 열렸을 때 화면을 덮는 완료 애니메이션과 화면 흔들림 효과를 제거했습니다. 문 열림 상단 알림과 오류 안내는 유지합니다. 할인권 미리 준비, 0매 숨김·적용 내역, 최근 30일 번호 검색, 차량 탭 새로고침 제거 등 기존 개선을 포함합니다. 방문 개방 기록 생략과 빠른 완료는 운영 PC 0.8.6 적용 후 동작합니다.",
+  "versionCode": 116,
+  "versionName": "0.9.87",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.87.apk",
+  "sha256": "41707daf79f30f1886ef253595ab6f2017272aa9d10c3e5c8b32012d9d858427",
+  "notes": "차량 조회 중 로딩 표시와 조회 중 문구를 추가하고 중복 조회를 막았습니다. 현재 유효기간 안의 정기권 차량은 할인권 조회에서 제외합니다(운영 서비스 1.0.58). 기존 문 열림 알림과 오류 안내는 유지합니다.",
   "history": [
+    {
+      "date": "2026-10-16",
+      "version": "0.9.87",
+      "notes": "차량 조회 중 로딩 표시와 조회 중 문구를 추가하고 중복 조회를 막았습니다. 현재 유효기간 안의 정기권 차량은 할인권 조회에서 제외합니다(운영 서비스 1.0.58). 기존 문 열림 알림과 오류 안내는 유지합니다."
+    },
     {
       "date": "2026-10-16",
       "version": "0.9.86",
