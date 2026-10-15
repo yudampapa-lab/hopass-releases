@@ -1,9 +1,9 @@
 {
-  "file": "hopass-server-v0.8.5.zip",
-  "version": "0.8.5",
-  "notes": "HODIPARKING 서비스 직접 연결을 완료하고 관리자 화면의 별도 연결 코드 발급·입력 안내를 제거했습니다. 방문 출입구 CCTV 중계를 포함합니다.",
-  "published_at": "2026-10-15T15:24:29.6791804Z",
-  "url": "hopass-server-v0.8.5.zip",
+  "file": "hopass-server-v0.8.6.zip",
+  "version": "0.8.6",
+  "notes": "방문 버튼으로 문을 열 때 장비 개방 응답 즉시 완료하고 휴젠 출입기록 저장을 생략합니다. 일반 사원 출입 기록은 유지합니다. 브리지 상태 확인이 명령 수신을 막지 않도록 분리했습니다. 앱 0.9.85와 함께 사용하세요.",
+  "published_at": "2026-10-15T16:34:09.8262069Z",
+  "url": "hopass-server-v0.8.6.zip",
   "product": "HOPASS",
-  "sha256": "837c44de3ce1f2dbd017bdc27d1a0035eb6c5e602d0489ecfe1a5e732e2740f3"
+  "sha256": "036d8b1868af8cb9cd25e13c8c924def9fd0f0f024ec22146aee7a8640dcfeb5"
 }
