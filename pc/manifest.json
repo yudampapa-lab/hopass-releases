@@ -1,9 +1,9 @@
 {
-  "file": "hopass-server-v0.8.4.zip",
-  "version": "0.8.4",
-  "notes": "방문 출입구 CCTV의 인증된 외부 영상 중계를 추가했습니다. 최초 실행 시 서버 전용 비밀 설정을 받아 로컬에 암호화 저장하며, 앱에서 영상을 보는 동안만 중계합니다. 이전 미리보기 중계 주소를 운영 주소로 보정했습니다.",
-  "published_at": "2026-10-15T15:16:43.3230779Z",
-  "url": "hopass-server-v0.8.4.zip",
+  "file": "hopass-server-v0.8.5.zip",
+  "version": "0.8.5",
+  "notes": "HODIPARKING 서비스 직접 연결을 완료하고 관리자 화면의 별도 연결 코드 발급·입력 안내를 제거했습니다. 방문 출입구 CCTV 중계를 포함합니다.",
+  "published_at": "2026-10-15T15:24:29.6791804Z",
+  "url": "hopass-server-v0.8.5.zip",
   "product": "HOPASS",
-  "sha256": "27137552a62011efbc5c21d4cb83207b4510433567a34f800f1258778373f6a1"
+  "sha256": "837c44de3ce1f2dbd017bdc27d1a0035eb6c5e602d0489ecfe1a5e732e2740f3"
 }
