@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 116,
-  "versionName": "0.9.87",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.87.apk",
-  "sha256": "41707daf79f30f1886ef253595ab6f2017272aa9d10c3e5c8b32012d9d858427",
-  "notes": "차량 조회 중 로딩 표시와 조회 중 문구를 추가하고 중복 조회를 막았습니다. 현재 유효기간 안의 정기권 차량은 할인권 조회에서 제외합니다(운영 서비스 1.0.58). 기존 문 열림 알림과 오류 안내는 유지합니다.",
+  "versionCode": 117,
+  "versionName": "0.9.88",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.88.apk",
+  "sha256": "6157507690258c83211cf4006ba6fe6897672407b1cdda175d32b15b27d17cdb",
+  "notes": "할인권 목록을 차량 조회와 함께 미리 준비하고 중계서버에서 바로 반환해 사진 처리 대기 시간을 줄였습니다. 실제 할인 적용 시 최신 잔여 수량을 다시 확인합니다. 방문 문 열기와 출입 탭 수동 문 열기에 로딩 표시를 추가해 서버 완료 응답까지 처리 중임을 명확히 보여줍니다. 차량 조회 로딩과 유효 정기권 제외를 유지합니다.",
   "history": [
+    {
+      "date": "2026-10-16",
+      "version": "0.9.88",
+      "notes": "할인권 목록을 차량 조회와 함께 미리 준비하고 중계서버에서 바로 반환해 사진 처리 대기 시간을 줄였습니다. 실제 할인 적용 시 최신 잔여 수량을 다시 확인합니다. 방문 문 열기와 출입 탭 수동 문 열기에 로딩 표시를 추가해 서버 완료 응답까지 처리 중임을 명확히 보여줍니다. 차량 조회 로딩과 유효 정기권 제외를 유지합니다."
+    },
     {
       "date": "2026-10-16",
       "version": "0.9.87",
