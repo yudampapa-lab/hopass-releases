@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 117,
-  "versionName": "0.9.88",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.88.apk",
-  "sha256": "6157507690258c83211cf4006ba6fe6897672407b1cdda175d32b15b27d17cdb",
-  "notes": "할인권 목록을 차량 조회와 함께 미리 준비하고 중계서버에서 바로 반환해 사진 처리 대기 시간을 줄였습니다. 실제 할인 적용 시 최신 잔여 수량을 다시 확인합니다. 방문 문 열기와 출입 탭 수동 문 열기에 로딩 표시를 추가해 서버 완료 응답까지 처리 중임을 명확히 보여줍니다. 차량 조회 로딩과 유효 정기권 제외를 유지합니다.",
+  "versionCode": 118,
+  "versionName": "0.9.89",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.89.apk",
+  "sha256": "9dddc2e9e2bc1814ae5b8c0fde46f3d4a61943db24eb16075494d599f2ad3c74",
+  "notes": "차량번호 입력 글자를 22sp로 키우고 높이·배경·테두리·선택 강조를 개선했습니다. 방문권 등록 차량번호에도 적용합니다. 할인권 미리 준비·중계 즉시 응답과 방문·출입 문 열기 로딩 표시 개선을 포함합니다.",
   "history": [
+    {
+      "date": "2026-10-16",
+      "version": "0.9.89",
+      "notes": "차량번호 입력 글자를 22sp로 키우고 높이·배경·테두리·선택 강조를 개선했습니다. 방문권 등록 차량번호에도 적용합니다. 할인권 미리 준비·중계 즉시 응답과 방문·출입 문 열기 로딩 표시 개선을 포함합니다."
+    },
     {
       "date": "2026-10-16",
       "version": "0.9.88",
