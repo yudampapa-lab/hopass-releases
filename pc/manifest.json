@@ -1,9 +1,9 @@
 {
-  "file": "hopass-server-v0.8.7.zip",
-  "version": "0.8.7",
-  "notes": "사원정보에 Play 설치용 Google 계정 이메일을 저장하고 사용 직원 이메일 목록을 복사할 수 있습니다. 이메일만 저장할 때 출입 권한과 모바일 연결은 유지됩니다. Google 그룹 가입 승인은 별도로 진행합니다.",
-  "published_at": "2026-10-16T05:33:58.0104515Z",
-  "url": "hopass-server-v0.8.7.zip",
+  "file": "hopass-server-v0.8.8.zip",
+  "version": "0.8.8",
+  "notes": "관리자에서 출입 90일·할인/방문 처리 30일 보관 기준의 참고 건수를 조회할 수 있습니다. 실제 삭제·익명화·권한 변경 기능은 없으며, 주차는 접수일 기준 참고치입니다. 사원 Play Google 계정 관리 기능도 포함합니다.",
+  "published_at": "2026-10-16T06:24:21.0744096Z",
+  "url": "hopass-server-v0.8.8.zip",
   "product": "HOPASS",
-  "sha256": "96ff4f972508bf34fe2a823f4d67c42fd8a3f7f535d57ec9e51dbaa0181bc38a"
+  "sha256": "cf45f833af9608f0b35b4b0d81c578d067a33163c2f417a6f4a20200cc819f9c"
 }
