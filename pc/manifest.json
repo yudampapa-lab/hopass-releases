@@ -1,9 +1,9 @@
 {
-  "file": "hopass-server-v0.8.8.zip",
-  "version": "0.8.8",
-  "notes": "관리자에서 출입 90일·할인/방문 처리 30일 보관 기준의 참고 건수를 조회할 수 있습니다. 실제 삭제·익명화·권한 변경 기능은 없으며, 주차는 접수일 기준 참고치입니다. 사원 Play Google 계정 관리 기능도 포함합니다.",
-  "published_at": "2026-10-16T06:24:21.0744096Z",
-  "url": "hopass-server-v0.8.8.zip",
+  "file": "hopass-server-v0.8.9.zip",
+  "version": "0.8.9",
+  "notes": "무료 중계 요청 절약: 빈 명령 조회 연결 유지, 상태 확인 통신 절약, CCTV 장애 재접속 간격 조절. 문열기와 센서 감지 조건은 유지합니다.",
+  "published_at": "2026-10-16T13:03:30.0456596Z",
+  "url": "hopass-server-v0.8.9.zip",
   "product": "HOPASS",
-  "sha256": "cf45f833af9608f0b35b4b0d81c578d067a33163c2f417a6f4a20200cc819f9c"
+  "sha256": "d1cdf39c514489b143b1b6c177fb51f01246d7c85a1d17a643200f6c2da9c5ca"
 }
