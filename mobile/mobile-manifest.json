@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 118,
-  "versionName": "0.9.89",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.89.apk",
-  "sha256": "9dddc2e9e2bc1814ae5b8c0fde46f3d4a61943db24eb16075494d599f2ad3c74",
-  "notes": "차량번호 입력 글자를 22sp로 키우고 높이·배경·테두리·선택 강조를 개선했습니다. 방문권 등록 차량번호에도 적용합니다. 할인권 미리 준비·중계 즉시 응답과 방문·출입 문 열기 로딩 표시 개선을 포함합니다.",
+  "versionCode": 120,
+  "versionName": "0.9.91",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.91.apk",
+  "sha256": "020afa25e6bf3133ab58394615a0691ca0f069df608f4fa47929f5ada960e8a0",
+  "notes": "중계서버 일일 무료 한도 초과를 연속 요청 제한과 구분해 안내합니다. CCTV 연결 실패 시 재시도를 점차 늦춰 장애 중 요청 폭증을 줄입니다. 정상 영상 수신 및 센서 감지 조건은 유지합니다.",
   "history": [
+    {
+      "date": "2026-10-16",
+      "version": "0.9.91",
+      "notes": "중계서버 일일 무료 한도 초과를 연속 요청 제한과 구분해 안내합니다. CCTV 연결 실패 시 재시도를 점차 늦춰 장애 중 요청 폭증을 줄입니다. 정상 영상 수신 및 센서 감지 조건은 유지합니다."
+    },
     {
       "date": "2026-10-16",
       "version": "0.9.89",
