@@ -1,9 +1,9 @@
 {
-  "version": "0.8.12",
-  "file": "hopass-server-v0.8.12.zip",
+  "version": "0.8.13",
+  "file": "hopass-server-v0.8.13.zip",
   "notes": "휴젠 호디·데이터누리 명단 동기화, 삭제 사원은 정상 전체 명단에서 5분 이상 간격으로 두 번 확인 후 사용 중지합니다. 사원·기록은 보존하고 자동 재활성화하지 않습니다. 회사별 SK쉴더스 조회 계정 선택을 지원합니다.",
-  "url": "hopass-server-v0.8.12.zip",
+  "url": "hopass-server-v0.8.13.zip",
   "product": "HOPASS",
-  "sha256": "0276870db35f3a7c550c6c9a2bb080242bac128f2ea74be43981784e30a98e45",
-  "published_at": "2026-10-17T17:12:26.9362421Z"
+  "sha256": "3446d84b21a303a07e597f73f66d4e65b06c4b9b35dd4c9ecbe7f64e55cb91c9",
+  "published_at": "2026-10-17T17:14:33.1110320Z"
 }
