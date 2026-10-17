@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 124,
-  "versionName": "0.9.95",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.95.apk",
-  "sha256": "e979cd3e6747bc1b23aa1a8ad557f7341c01ae3cdfab420be9d01c86e2eb7fbb",
-  "notes": "회사 그룹별 관리 탭을 추가했습니다. 1041 오찬영 최고관리자는 모든 그룹·출입·주차 권한을 관리하며, 지정된 그룹 관리자는 담당 회사 사원만 관리할 수 있습니다. 회사 그룹명 수정, 사원 등록·권한 편집, 등록 코드·토큰 발급 및 재발급을 지원합니다. 관리 화면에 인원 요약·회사 선택·사원 검색·역할 표시를 추가했습니다.",
+  "versionCode": 125,
+  "versionName": "0.9.96",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.96.apk",
+  "sha256": "64c97761eee5f592da4f55c3d6c2e4d38347f2c9b9fb5b530b913842225748e6",
+  "notes": "관리 사원 목록을 작은 사원번호 순으로 정렬하고 앱 연결 확인·버전·최근 접속 시각을 표시합니다. 미확인은 미설치를 뜻하지 않으며 최신 앱 접속 때 확인됩니다. 휴젠 호디·데이터누리 신규 사원 자동 동기화를 지원합니다(운영 PC 서버 0.8.11 적용 필요). 기존 사원 토큰·권한은 유지합니다.",
   "history": [
+    {
+      "date": "2026-10-18",
+      "version": "0.9.96",
+      "notes": "관리 사원 목록을 작은 사원번호 순으로 정렬하고 앱 연결 확인·버전·최근 접속 시각을 표시합니다. 미확인은 미설치를 뜻하지 않으며 최신 앱 접속 때 확인됩니다. 휴젠 호디·데이터누리 신규 사원 자동 동기화를 지원합니다(운영 PC 서버 0.8.11 적용 필요). 기존 사원 토큰·권한은 유지합니다."
+    },
     {
       "date": "2026-10-18",
       "version": "0.9.95",
