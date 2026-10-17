@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 125,
-  "versionName": "0.9.96",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.96.apk",
-  "sha256": "64c97761eee5f592da4f55c3d6c2e4d38347f2c9b9fb5b530b913842225748e6",
-  "notes": "관리 사원 목록을 작은 사원번호 순으로 정렬하고 앱 연결 확인·버전·최근 접속 시각을 표시합니다. 미확인은 미설치를 뜻하지 않으며 최신 앱 접속 때 확인됩니다. 휴젠 호디·데이터누리 신규 사원 자동 동기화를 지원합니다(운영 PC 서버 0.8.11 적용 필요). 기존 사원 토큰·권한은 유지합니다.",
+  "versionCode": 126,
+  "versionName": "0.9.97",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.97.apk",
+  "sha256": "e7c5793757f9a2c8457eaf626bad81db7ee382eaf2ef400ad8a60b88d6724ad4",
+  "notes": "관리 탭에서 회사별 SK쉴더스 웹할인권 계정을 선택합니다. 계정은 SK쉴더스 조회 목록으로만 제공하며 할인권 잔여 수량·적용내역·차감을 회사별로 분리합니다. 휴젠에서 삭제된 사원은 확인 후 사용 중지하며 기존 기록은 보존합니다(운영 PC 0.8.12, 주차 서버 1.0.61 필요).",
   "history": [
+    {
+      "date": "2026-10-18",
+      "version": "0.9.97",
+      "notes": "관리 탭에서 회사별 SK쉴더스 웹할인권 계정을 선택합니다. 계정은 SK쉴더스 조회 목록으로만 제공하며 할인권 잔여 수량·적용내역·차감을 회사별로 분리합니다. 휴젠에서 삭제된 사원은 확인 후 사용 중지하며 기존 기록은 보존합니다(운영 PC 0.8.12, 주차 서버 1.0.61 필요)."
+    },
     {
       "date": "2026-10-18",
       "version": "0.9.96",
