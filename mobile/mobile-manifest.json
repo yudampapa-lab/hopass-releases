@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 126,
-  "versionName": "0.9.97",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.97.apk",
-  "sha256": "e7c5793757f9a2c8457eaf626bad81db7ee382eaf2ef400ad8a60b88d6724ad4",
-  "notes": "관리 탭에서 회사별 SK쉴더스 웹할인권 계정을 선택합니다. 계정은 SK쉴더스 조회 목록으로만 제공하며 할인권 잔여 수량·적용내역·차감을 회사별로 분리합니다. 휴젠에서 삭제된 사원은 확인 후 사용 중지하며 기존 기록은 보존합니다(운영 PC 0.8.13, 주차 서버 1.0.61 필요).",
+  "versionCode": 127,
+  "versionName": "0.9.98",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.98.apk",
+  "sha256": "46a808386b9e8f942b145a5c71cd3a57891b19b687ab1dfd1821add19c180613",
+  "notes": "웹할인권 계정 선택 기능을 제거했습니다. 호디는 hodi_00001, 데이터누리는 hodi_00005로 회사별 고정이며 최고관리자도 변경할 수 없습니다. 기존 선택값은 무시하고 그룹명을 바꿔도 고정 연결을 유지합니다. 기존 동기화와 기록 보존 기능은 유지합니다.",
   "history": [
+    {
+      "date": "2026-10-18",
+      "version": "0.9.98",
+      "notes": "웹할인권 계정 선택 기능을 제거했습니다. 호디는 hodi_00001, 데이터누리는 hodi_00005로 회사별 고정이며 최고관리자도 변경할 수 없습니다. 기존 선택값은 무시하고 그룹명을 바꿔도 고정 연결을 유지합니다. 기존 동기화와 기록 보존 기능은 유지합니다."
+    },
     {
       "date": "2026-10-18",
       "version": "0.9.97",

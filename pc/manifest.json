@@ -1,9 +1,9 @@
 {
-  "version": "0.8.13",
-  "file": "hopass-server-v0.8.13.zip",
-  "notes": "휴젠 호디·데이터누리 명단 동기화, 삭제 사원은 정상 전체 명단에서 5분 이상 간격으로 두 번 확인 후 사용 중지합니다. 사원·기록은 보존하고 자동 재활성화하지 않습니다. 회사별 SK쉴더스 조회 계정 선택을 지원합니다.",
-  "url": "hopass-server-v0.8.13.zip",
+  "version": "0.8.14",
+  "file": "hopass-server-v0.8.14.zip",
+  "notes": "웹할인권 계정 선택 기능을 제거했습니다. 호디 hodi_00001·데이터누리 hodi_00005는 회사별 고정으로 표시하며 변경할 수 없습니다. 휴젠 동기화·삭제 사원 사용 중지와 기록 보존을 유지합니다.",
+  "url": "hopass-server-v0.8.14.zip",
   "product": "HOPASS",
-  "sha256": "3446d84b21a303a07e597f73f66d4e65b06c4b9b35dd4c9ecbe7f64e55cb91c9",
-  "published_at": "2026-10-17T17:14:33.1110320Z"
+  "sha256": "c92f08037b6478c3d9777ab1c3149de0a181d389433548de7675ae81ed124dfc",
+  "published_at": "2026-10-17T17:20:56.0027321Z"
 }
