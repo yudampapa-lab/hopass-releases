@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 127,
-  "versionName": "0.9.98",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.98.apk",
-  "sha256": "46a808386b9e8f942b145a5c71cd3a57891b19b687ab1dfd1821add19c180613",
-  "notes": "웹할인권 계정 선택 기능을 제거했습니다. 호디는 hodi_00001, 데이터누리는 hodi_00005로 회사별 고정이며 최고관리자도 변경할 수 없습니다. 기존 선택값은 무시하고 그룹명을 바꿔도 고정 연결을 유지합니다. 기존 동기화와 기록 보존 기능은 유지합니다.",
+  "versionCode": 128,
+  "versionName": "0.9.99",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.99.apk",
+  "sha256": "579ba8a3e5fdfc9815ed58c86352421d555a8b86238078cdbffd6d84d5cb95a2",
+  "notes": "일반 관리자는 본인 소속 회사의 사원만 조회·등록·관리합니다. 다른 회사 사원 조회·권한 변경·토큰 발급을 서버에서 차단하고 여러 회사 관리자 지정도 제한합니다. 1041 오찬영만 전체 사원을 조회·관리합니다. 관리자 지정은 선택한 회사의 관리자 스위치로 단순화했습니다. 회사별 할인권 고정과 휴젠 동기화를 유지합니다.",
   "history": [
+    {
+      "date": "2026-10-18",
+      "version": "0.9.99",
+      "notes": "일반 관리자는 본인 소속 회사의 사원만 조회·등록·관리합니다. 다른 회사 사원 조회·권한 변경·토큰 발급을 서버에서 차단하고 여러 회사 관리자 지정도 제한합니다. 1041 오찬영만 전체 사원을 조회·관리합니다. 관리자 지정은 선택한 회사의 관리자 스위치로 단순화했습니다. 회사별 할인권 고정과 휴젠 동기화를 유지합니다."
+    },
     {
       "date": "2026-10-18",
       "version": "0.9.98",

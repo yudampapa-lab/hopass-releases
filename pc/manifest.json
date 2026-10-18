@@ -1,9 +1,9 @@
 {
-  "version": "0.8.14",
-  "file": "hopass-server-v0.8.14.zip",
-  "notes": "웹할인권 계정 선택 기능을 제거했습니다. 호디 hodi_00001·데이터누리 hodi_00005는 회사별 고정으로 표시하며 변경할 수 없습니다. 휴젠 동기화·삭제 사원 사용 중지와 기록 보존을 유지합니다.",
-  "url": "hopass-server-v0.8.14.zip",
+  "version": "0.8.15",
+  "file": "hopass-server-v0.8.15.zip",
+  "notes": "관리자는 본인 소속 회사만 조회·관리하도록 관리자 지정 화면을 단순화했습니다. 1041만 전체 사원을 조회·관리합니다. 회사별 할인권 계정 고정과 휴젠 동기화·삭제 사원 사용 중지를 유지합니다.",
+  "url": "hopass-server-v0.8.15.zip",
   "product": "HOPASS",
-  "sha256": "c92f08037b6478c3d9777ab1c3149de0a181d389433548de7675ae81ed124dfc",
-  "published_at": "2026-10-17T17:20:56.0027321Z"
+  "sha256": "4d726cfcdb97e7d9ce0a457e345615e6d14cc070a696f1d56edbdffdd272112e",
+  "published_at": "2026-10-18T06:40:26.5799134Z"
 }
