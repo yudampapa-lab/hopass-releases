@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 128,
-  "versionName": "0.9.99",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.99.apk",
-  "sha256": "579ba8a3e5fdfc9815ed58c86352421d555a8b86238078cdbffd6d84d5cb95a2",
-  "notes": "일반 관리자는 본인 소속 회사의 사원만 조회·등록·관리합니다. 다른 회사 사원 조회·권한 변경·토큰 발급을 서버에서 차단하고 여러 회사 관리자 지정도 제한합니다. 1041 오찬영만 전체 사원을 조회·관리합니다. 관리자 지정은 선택한 회사의 관리자 스위치로 단순화했습니다. 회사별 할인권 고정과 휴젠 동기화를 유지합니다.",
+  "versionCode": 129,
+  "versionName": "0.9.100",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.100.apk",
+  "sha256": "89180689e4b24d6cef06ed8cb4616527613b98d9a3eaf6f9ba27552e20da1286",
+  "notes": "CCTV가 스크롤할 때 끊기며 검게 바뀌는 현상을 개선했습니다. 방문 탭의 당겨 새로고침을 제거하고 짧은 스크롤에는 기존 영상 연결을 유지합니다. 화면 밖에서 20초가 지나면 마지막 영상을 보존한 채 수신을 쉬고, 재연결 시에도 마지막 영상과 상태를 표시합니다. 앱을 내려놓거나 화면을 끄면 영상 수신과 상태 점검을 중단합니다. 차량 탭의 당겨 새로고침도 중단합니다.",
   "history": [
+    {
+      "date": "2026-10-27",
+      "version": "0.9.100",
+      "notes": "CCTV가 스크롤할 때 끊기며 검게 바뀌는 현상을 개선했습니다. 방문 탭의 당겨 새로고침을 제거하고 짧은 스크롤에는 기존 영상 연결을 유지합니다. 화면 밖에서 20초가 지나면 마지막 영상을 보존한 채 수신을 쉬고, 재연결 시에도 마지막 영상과 상태를 표시합니다. 앱을 내려놓거나 화면을 끄면 영상 수신과 상태 점검을 중단합니다. 차량 탭의 당겨 새로고침도 중단합니다."
+    },
     {
       "date": "2026-10-18",
       "version": "0.9.99",
