@@ -1,11 +1,16 @@
 {
   "product": "HODI PASS",
-  "versionCode": 131,
-  "versionName": "0.9.102",
-  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.102.apk",
-  "sha256": "31d5949353eb7a118c7217f7b5c358e4ce3a470ba30b2f9b05b16e1d24349574",
-  "notes": "차량번호 오른쪽에 이번 입차에 적용된 할인권 종류와 수량을 표시합니다. 할인권 창에서 취소 가능한 내역을 취소할 수 있으며 정산 완료 내역은 구분해 표시합니다. 적용·취소 성공 후 차량 목록과 적용 내역을 다시 확인합니다. 회사별 고정 계정과 중복 처리 방지를 유지합니다.",
+  "versionCode": 132,
+  "versionName": "0.9.103",
+  "downloadUrl": "https://raw.githubusercontent.com/yudampapa-lab/hopass-releases/main/mobile/HODI-PASS-0.9.103.apk",
+  "sha256": "53b4c80e9faee2114b9e72f50c16205053614e06c8938c1740fbffc3b0d7c7ce",
+  "notes": "관리 메뉴에 문 열기 기록을 추가했습니다. 요청 직원·출입문·시간·결과를 조회할 수 있습니다. 회사 관리자는 소속 회사 기록을, 최고관리자는 전체 기록을 볼 수 있습니다. 서버에서 출입 요청 기록을 3개월 보관한 뒤 자동 정리합니다.",
   "history": [
+    {
+      "date": "2026-11-07",
+      "version": "0.9.103",
+      "notes": "관리 메뉴에 문 열기 기록을 추가했습니다. 요청 직원·출입문·시간·결과를 조회할 수 있습니다. 회사 관리자는 소속 회사 기록을, 최고관리자는 전체 기록을 볼 수 있습니다. 서버에서 출입 요청 기록을 3개월 보관한 뒤 자동 정리합니다."
+    },
     {
       "date": "2026-11-05",
       "version": "0.9.102",
